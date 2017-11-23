@@ -19,5 +19,5 @@ To test hypothesis 1, I will graphically and numerically summarize the total pro
 |Dataset|Link|
 |---|---|
 |Talkshow Guests|[guests.csv](https://github.com/TheUpshot/Sunday-Shows)|
-|Current Legislators|[legislators-current](https://github.com/unitedstates/congress-legislators)|
-|Historical Legislators|[legislators-historical](https://github.com/unitedstates/congress-legislators)|
+|Current Legislators|[legislators-current.csv](https://github.com/unitedstates/congress-legislators)|
+|Historical Legislators|[legislators-historical.csv](https://github.com/unitedstates/congress-legislators)|
