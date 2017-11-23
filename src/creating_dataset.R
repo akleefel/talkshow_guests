@@ -15,13 +15,13 @@ guests <- guests %>%
 
 #reading in, cleaning & merging data on congress members
 
-current_politicians <- read_csv("/Users/Akleefel/Desktop/MDS/3. Block/Labs/DSCI 522 Workflows/data_project/workflows_project/raw_data/legislators-current.csv")
+current_politicians <- read_csv("raw_data/legislators-current.csv")
 
 current_politicians <- current_politicians %>% 
   select(last_name, first_name, party)
 
 
-hist_politicians  <- read_csv("/Users/Akleefel/Desktop/MDS/3. Block/Labs/DSCI 522 Workflows/data_project/workflows_project/raw_data/legislators-historical.csv")
+hist_politicians  <- read_csv("raw_data/legislators-historical.csv")
 
 hist_politicians <- hist_politicians %>% 
   filter(year(birthday)>1935) %>% 
@@ -31,9 +31,11 @@ hist_politicians <- hist_politicians %>%
 politicians <- rbind(current_politicians, hist_politicians)
 
 
-#combine both dataframes to add party information
+#combine both dataframes to add party information & filtering for rows with 'party' information
 
 party_guests <- left_join(guests, politicians, by = c('last_name','first_name'))
 
+party_guests_filtered <- party_guests %>%
+  filter(!is.na(party))
 
 #make ratio: #democrat guests / #republican guest
