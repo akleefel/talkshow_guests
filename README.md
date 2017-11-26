@@ -29,4 +29,4 @@ To test hypothesis 1, I will graphically and numerically summarize the total pro
 |---|---|
 |Guests Head|[guests_head.csv](results/guests_head.csv)|
 |Current Head|[current_politicians_head.csv](results/current_politicians_head.csv)|
-|Historical Head|[hist_politicians_head.csv](hist_politicians_head.csv)|
+|Historical Head|[hist_politicians_head.csv](results/hist_politicians_head.csv)|
