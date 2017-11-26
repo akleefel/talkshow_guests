@@ -14,10 +14,19 @@ In this project I use data on politicians who have appeared on five American Sun
 
 To test hypothesis 1, I will graphically and numerically summarize the total proportions of guests from different parties for all 5 shows. To do this I will report the proportions in a markdown table and visualize them using a stacked bar plot. To test hypothesis 2, I will track the proportions over time and present them in a table as well as a time plot .
 
-### Data Sources
+### Data Sources & Loading data
 
 |Dataset|Link|
 |---|---|
 |Talkshow Guests|[guests.csv](https://github.com/TheUpshot/Sunday-Shows)|
 |Current Legislators|[legislators-current.csv](https://github.com/unitedstates/congress-legislators)|
 |Historical Legislators|[legislators-historical.csv](https://github.com/unitedstates/congress-legislators)|
+
+
+* As proof that I was able to load all three datasets, I have exported the "head" of the files to the results directory.
+
+|File|Link|
+|---|---|
+|Guests Head|[guests_head.csv](results/guests_head.csv)|
+|Current Head|[current_politicians_head.csv](results/current_politicians_head.csv)|
+|Historical Head|[hist_politicians_head.csv](hist_politicians_head.csv)|
