@@ -1,0 +1,2211 @@
+show,date,first_name,last_name,gender,party
+Fox News Sunday,1/4/09,Steny,Hoyer,m,Democrat
+Meet the Press,1/4/09,Harry,Reid,m,Democrat
+This Week,1/4/09,Richard,Durbin,m,Democrat
+This Week,1/4/09,Mitch,McConnell,m,Republican
+Face the Nation,1/11/09,Richard,Durbin,m,Democrat
+Face the Nation,1/11/09,John,Boehner,m,Republican
+Face the Nation,1/11/09,Roland,Burris,m,Democrat
+Meet the Press,1/11/09,David,Bonior,m,Democrat
+Meet the Press,1/11/09,Maxine,Waters,f,Democrat
+This Week,1/11/09,Barack,Obama,m,Democrat
+Fox News Sunday,1/18/09,Nancy,Pelosi,f,Democrat
+Meet the Press,1/18/09,Rahm,Emanuel,m,Democrat
+State of the Union,1/18/09,Barack,Obama,m,Democrat
+Face the Nation,1/25/09,Joseph,Biden,m,Democrat
+Fox News Sunday,1/25/09,John,McCain,m,Republican
+Fox News Sunday,1/25/09,Charles,Schumer,m,Democrat
+Meet the Press,1/25/09,John,Boehner,m,Republican
+State of the Union,1/25/09,Lindsey,Graham,m,Republican
+This Week,1/25/09,Nancy,Pelosi,f,Democrat
+Face the Nation,2/1/09,Mitch,McConnell,m,Republican
+Face the Nation,2/1/09,Charles,Schumer,m,Democrat
+Fox News Sunday,2/1/09,Richard,Durbin,m,Democrat
+Fox News Sunday,2/1/09,Jon,Kyl,m,Republican
+Meet the Press,2/1/09,John,Kerry,m,Democrat
+Meet the Press,2/1/09,Kay,Hutchison,f,Republican
+State of the Union,2/1/09,Ben,Nelson,m,Democrat
+State of the Union,2/1/09,Susan,Collins,f,Republican
+This Week,2/1/09,Jim,DeMint,m,Republican
+This Week,2/1/09,Barney,Frank,m,Democrat
+Face the Nation,2/8/09,Kent,Conrad,m,Democrat
+Face the Nation,2/8/09,John,McCain,m,Republican
+Fox News Sunday,2/8/09,John,Cornyn,m,Republican
+Meet the Press,2/8/09,Barney,Frank,m,Democrat
+Meet the Press,2/8/09,Mike,Pence,m,Republican
+Meet the Press,2/8/09,John,Ensign,m,Republican
+Meet the Press,2/8/09,Claire,McCaskill,f,Democrat
+State of the Union,2/8/09,Charles,Schumer,m,Democrat
+State of the Union,2/8/09,Ray,LaHood,m,Republican
+State of the Union,2/8/09,Richard,Shelby,m,Republican
+Face the Nation,2/15/09,Barney,Frank,m,Democrat
+Face the Nation,2/15/09,Richard,Shelby,m,Republican
+State of the Union,2/15/09,Aaron,Schock,m,Republican
+State of the Union,2/15/09,John,McCain,m,Republican
+This Week,2/15/09,Maxine,Waters,f,Democrat
+This Week,2/15/09,Peter,King,m,Republican
+This Week,2/15/09,Charles,Schumer,m,Democrat
+This Week,2/15/09,Lindsey,Graham,m,Republican
+Face the Nation,2/22/09,Ted,Strickland,m,Democrat
+Face the Nation,2/22/09,Jon,Corzine,m,Democrat
+Meet the Press,2/22/09,Charlie,Crist,m,Democrat
+Meet the Press,2/22/09,Bobby,Jindal,m,Republican
+State of the Union,2/22/09,Mitch,McConnell,m,Republican
+Face the Nation,3/1/09,Rahm,Emanuel,m,Democrat
+Fox News Sunday,3/1/09,Paul,Ryan,m,Republican
+Fox News Sunday,3/1/09,Jon,Kyl,m,Republican
+Meet the Press,3/1/09,Harold,Ford,m,Democrat
+Meet the Press,3/1/09,Harold,Ford,m,Democrat
+Meet the Press,3/1/09,Joe,Scarborough,m,Republican
+State of the Union,3/1/09,Tom,Price,m,Republican
+State of the Union,3/1/09,Peter,DeFazio,m,Democrat
+State of the Union,3/1/09,Neil,Abercrombie,m,Democrat
+This Week,3/1/09,Eric,Cantor,m,Republican
+Face the Nation,3/8/09,John,Boehner,m,Republican
+Fox News Sunday,3/8/09,John,McCain,m,Republican
+Meet the Press,3/8/09,Charles,Schumer,m,Democrat
+Meet the Press,3/8/09,Lindsey,Graham,m,Republican
+State of the Union,3/8/09,Eric,Cantor,m,Republican
+This Week,3/8/09,Evan,Bayh,m,Democrat
+This Week,3/8/09,Richard,Shelby,m,Republican
+This Week,3/8/09,Claire,McCaskill,f,Democrat
+Fox News Sunday,3/15/09,Barney,Frank,m,Democrat
+Fox News Sunday,3/15/09,Bob,Corker,m,Republican
+Meet the Press,3/15/09,Eric,Cantor,m,Republican
+State of the Union,3/15/09,Joe,Sestak,m,Democrat
+This Week,3/15/09,Mitch,McConnell,m,Republican
+Face the Nation,3/22/09,Charles,Grassley,m,Republican
+Face the Nation,3/22/09,Barney,Frank,m,Democrat
+Fox News Sunday,3/22/09,Richard,Shelby,m,Republican
+State of the Union,3/22/09,Judd,Gregg,m,Republican
+This Week,3/22/09,Kent,Conrad,m,Democrat
+This Week,3/22/09,Susan,Collins,f,Republican
+This Week,3/22/09,Mike,Pence,m,Republican
+Face the Nation,3/29/09,Barack,Obama,m,Democrat
+Meet the Press,3/29/09,John,McCain,m,Republican
+State of the Union,3/29/09,John,Spratt,m,Democrat
+State of the Union,3/29/09,Kent,Conrad,m,Democrat
+State of the Union,3/29/09,Mitch,McConnell,m,Republican
+State of the Union,4/5/09,Debbie,Stabenow,f,Democrat
+State of the Union,4/5/09,Bob,Corker,m,Republican
+Fox News Sunday,4/12/09,Evan,Bayh,m,Democrat
+Fox News Sunday,4/19/09,Lindsey,Graham,m,Republican
+Fox News Sunday,4/19/09,Claire,McCaskill,f,Democrat
+Meet the Press,4/19/09,Harold,Ford,m,Democrat
+Meet the Press,4/19/09,Harold,Ford,m,Democrat
+Meet the Press,4/19/09,Richard,Armey,m,Republican
+State of the Union,4/19/09,Amy,Klobuchar,f,Democrat
+State of the Union,4/19/09,John,Ensign,m,Republican
+This Week,4/19/09,Rahm,Emanuel,m,Democrat
+This Week,4/19/09,John,Boehner,m,Republican
+Face the Nation,4/26/09,John,McCain,m,Republican
+Face the Nation,4/26/09,Patrick,Leahy,m,Democrat
+Fox News Sunday,4/26/09,Christopher,Bond,m,Republican
+State of the Union,4/26/09,Dianne,Feinstein,f,Democrat
+State of the Union,4/26/09,Lindsey,Graham,m,Republican
+State of the Union,4/26/09,Joseph,Lieberman,m,Independent
+Fox News Sunday,5/3/09,Richard,Durbin,m,Democrat
+Fox News Sunday,5/3/09,John,Ensign,m,Republican
+Meet the Press,5/3/09,Joe,Scarborough,m,Republican
+State of the Union,5/3/09,Eric,Cantor,m,Republican
+State of the Union,5/3/09,Joe,Sestak,m,Democrat
+State of the Union,5/3/09,Richard,Shelby,m,Republican
+State of the Union,5/3/09,Patrick,Leahy,m,Democrat
+This Week,5/3/09,Orrin,Hatch,m,Republican
+This Week,5/3/09,Patrick,Leahy,m,Democrat
+State of the Union,5/10/09,Bob,Corker,m,Republican
+This Week,5/10/09,John,McCain,m,Republican
+This Week,5/10/09,James,Jones,m,Democrat
+Face the Nation,5/17/09,Peter,King,m,Republican
+Fox News Sunday,5/17/09,Mitch,McConnell,m,Republican
+State of the Union,5/17/09,John,Boehner,m,Republican
+This Week,5/17/09,Jim,Webb,m,Democrat
+This Week,5/17/09,Jon,Kyl,m,Republican
+Fox News Sunday,5/24/09,Ben,Nelson,m,Democrat
+Fox News Sunday,5/24/09,Jon,Kyl,m,Republican
+Meet the Press,5/24/09,Richard,Durbin,m,Democrat
+State of the Union,5/24/09,Barbara,Boxer,f,Democrat
+State of the Union,5/24/09,Thomas,Ridge,m,Republican
+State of the Union,5/24/09,Richard,Shelby,m,Republican
+Face the Nation,5/31/09,Dianne,Feinstein,f,Democrat
+Face the Nation,5/31/09,Jon,Kyl,m,Republican
+Fox News Sunday,5/31/09,Lindsey,Graham,m,Republican
+Meet the Press,5/31/09,Patrick,Leahy,m,Democrat
+State of the Union,5/31/09,Mitch,McConnell,m,Republican
+State of the Union,5/31/09,Amy,Klobuchar,f,Democrat
+State of the Union,5/31/09,Kay,Hutchison,f,Republican
+This Week,5/31/09,Charles,Schumer,m,Democrat
+This Week,5/31/09,John,Cornyn,m,Republican
+Fox News Sunday,6/7/09,Richard,Shelby,m,Republican
+This Week,6/7/09,Hillary,Clinton,f,Democrat
+Face the Nation,6/14/09,Richard,Durbin,m,Democrat
+Face the Nation,6/14/09,Mitch,McConnell,m,Republican
+Fox News Sunday,6/14/09,Charles,Grassley,m,Republican
+Fox News Sunday,6/14/09,Christopher,Dodd,m,Democrat
+Meet the Press,6/14/09,Joseph,Biden,m,Democrat
+Meet the Press,6/14/09,Joe,Scarborough,m,Republican
+State of the Union,6/14/09,Kent,Conrad,m,Democrat
+State of the Union,6/14/09,Ben,Nelson,m,Democrat
+State of the Union,6/14/09,Susan,Collins,f,Republican
+State of the Union,6/14/09,Mike,Pence,m,Republican
+Face the Nation,6/21/09,John,McCain,m,Republican
+Fox News Sunday,6/21/09,Paul,Ryan,m,Republican
+Fox News Sunday,6/21/09,Evan,Bayh,m,Democrat
+Meet the Press,6/21/09,Fred,Thompson,m,Republican
+State of the Union,6/21/09,Charles,Grassley,m,Republican
+State of the Union,6/21/09,Dianne,Feinstein,f,Democrat
+This Week,6/21/09,Lindsey,Graham,m,Republican
+This Week,6/21/09,Christopher,Dodd,m,Democrat
+Fox News Sunday,6/28/09,Mitch,McConnell,m,Republican
+Meet the Press,6/28/09,Lindsey,Graham,m,Republican
+This Week,6/28/09,Charles,Grassley,m,Republican
+Face the Nation,7/5/09,Charles,Grassley,m,Republican
+Face the Nation,7/5/09,Charles,Schumer,m,Democrat
+Fox News Sunday,7/5/09,Steny,Hoyer,m,Democrat
+Fox News Sunday,7/5/09,John,Boehner,m,Republican
+This Week,7/5/09,Joseph,Biden,m,Democrat
+Face the Nation,7/12/09,Patrick,Leahy,m,Democrat
+Fox News Sunday,7/12/09,Eric,Cantor,m,Republican
+Fox News Sunday,7/12/09,Dianne,Feinstein,f,Democrat
+Fox News Sunday,7/12/09,John,Cornyn,m,Republican
+Meet the Press,7/12/09,John,McCain,m,Republican
+Meet the Press,7/12/09,Charles,Schumer,m,Democrat
+State of the Union,7/12/09,Patrick,Murphy,m,Democrat
+State of the Union,7/12/09,Patrick,Murphy,m,Democrat
+State of the Union,7/12/09,Kent,Conrad,m,Democrat
+State of the Union,7/12/09,Debbie,Stabenow,f,Democrat
+State of the Union,7/12/09,Lamar,Alexander,m,Republican
+State of the Union,7/12/09,Judd,Gregg,m,Republican
+This Week,7/12/09,Richard,Durbin,m,Democrat
+This Week,7/12/09,Jon,Kyl,m,Republican
+Face the Nation,7/19/09,Orrin,Hatch,m,Republican
+Fox News Sunday,7/19/09,Judd,Gregg,m,Republican
+Meet the Press,7/19/09,Mitch,McConnell,m,Republican
+State of the Union,7/19/09,Jesse,Jackson,m,Democrat
+State of the Union,7/19/09,Patrick,Leahy,m,Democrat
+Face the Nation,7/26/09,Jim,Cooper,m,Democrat
+Fox News Sunday,7/26/09,Jon,Kyl,m,Republican
+Meet the Press,7/26/09,Hillary,Clinton,f,Democrat
+State of the Union,7/26/09,Mitch,McConnell,m,Republican
+State of the Union,7/26/09,Nancy,Pelosi,f,Democrat
+This Week,7/26/09,Kent,Conrad,m,Democrat
+This Week,7/26/09,Jim,DeMint,m,Republican
+Fox News Sunday,8/2/09,Jim,DeMint,m,Republican
+Fox News Sunday,8/2/09,Mike,Pence,m,Republican
+Meet the Press,8/2/09,Harold,Ford,m,Democrat
+Meet the Press,8/2/09,Harold,Ford,m,Democrat
+State of the Union,8/2/09,John,McCain,m,Republican
+Face the Nation,8/9/09,Lindsey,Graham,m,Republican
+Face the Nation,8/9/09,James,Jones,m,Democrat
+Fox News Sunday,8/9/09,Mitch,McConnell,m,Republican
+Fox News Sunday,8/9/09,James,Jones,m,Democrat
+Meet the Press,8/9/09,Cory,Booker,m,Democrat
+Meet the Press,8/9/09,James,Jones,m,Democrat
+State of the Union,8/9/09,Richard,Durbin,m,Democrat
+State of the Union,8/9/09,John,Cornyn,m,Republican
+Fox News Sunday,8/16/09,Kent,Conrad,m,Democrat
+Fox News Sunday,8/16/09,Richard,Shelby,m,Republican
+Meet the Press,8/16/09,Richard,Armey,m,Republican
+State of the Union,8/16/09,Mike,Ross,m,Democrat
+State of the Union,8/16/09,Eddie,Johnson,f,Democrat
+State of the Union,8/16/09,Tom,Price,m,Republican
+State of the Union,8/16/09,John,Barrasso,m,Republican
+This Week,8/16/09,Orrin,Hatch,m,Republican
+Face the Nation,8/23/09,Kent,Conrad,m,Democrat
+Face the Nation,8/23/09,Charles,Grassley,m,Republican
+Fox News Sunday,8/23/09,Paul,Ryan,m,Republican
+Fox News Sunday,8/23/09,Tammy,Duckworth,f,Democrat
+Meet the Press,8/23/09,Charles,Schumer,m,Democrat
+Meet the Press,8/23/09,Joe,Scarborough,m,Republican
+Meet the Press,8/23/09,Orrin,Hatch,m,Republican
+State of the Union,8/23/09,Benjamin,Cardin,m,Democrat
+State of the Union,8/23/09,Joseph,Lieberman,m,Independent
+This Week,8/23/09,John,McCain,m,Republican
+Face the Nation,8/30/09,John,McCain,m,Republican
+Face the Nation,8/30/09,Barney,Frank,m,Democrat
+Face the Nation,8/30/09,Dianne,Feinstein,f,Democrat
+Face the Nation,8/30/09,Orrin,Hatch,m,Republican
+Meet the Press,8/30/09,Christopher,Dodd,m,Democrat
+Meet the Press,8/30/09,John,Kerry,m,Democrat
+State of the Union,8/30/09,Mary,Landrieu,f,Democrat
+State of the Union,8/30/09,Christopher,Dodd,m,Democrat
+State of the Union,8/30/09,Orrin,Hatch,m,Republican
+State of the Union,8/30/09,Maria,Cantwell,f,Democrat
+This Week,8/30/09,Orrin,Hatch,m,Republican
+This Week,8/30/09,John,Kerry,m,Democrat
+Fox News Sunday,9/6/09,Lamar,Alexander,m,Republican
+Meet the Press,9/6/09,Harold,Ford,m,Democrat
+Meet the Press,9/6/09,Harold,Ford,m,Democrat
+State of the Union,9/6/09,Amy,Klobuchar,f,Democrat
+State of the Union,9/6/09,Ben,Nelson,m,Democrat
+State of the Union,9/6/09,Keith,Ellison,m,Democrat
+This Week,9/6/09,Maxine,Waters,f,Democrat
+This Week,9/6/09,Mike,Pence,m,Republican
+Face the Nation,9/13/09,Olympia,Snowe,f,Republican
+Fox News Sunday,9/13/09,Kent,Conrad,m,Democrat
+Fox News Sunday,9/13/09,Lindsey,Graham,m,Republican
+Fox News Sunday,9/13/09,Joe,Wilson,m,Republican
+Fox News Sunday,9/13/09,Orrin,Hatch,m,Republican
+Fox News Sunday,9/13/09,Claire,McCaskill,f,Democrat
+Meet the Press,9/13/09,Richard,Durbin,m,Democrat
+Meet the Press,9/13/09,John,Cornyn,m,Republican
+State of the Union,9/13/09,Eric,Cantor,m,Republican
+State of the Union,9/13/09,Dianne,Feinstein,f,Democrat
+State of the Union,9/13/09,Susan,Collins,f,Republican
+State of the Union,9/13/09,Jeanne,Shaheen,f,Democrat
+This Week,9/13/09,Mary,Landrieu,f,Democrat
+This Week,9/13/09,John,Rockefeller,m,Democrat
+Face the Nation,9/20/09,Barack,Obama,m,Democrat
+Fox News Sunday,9/20/09,Darrell,Issa,m,Republican
+Meet the Press,9/20/09,Barack,Obama,m,Democrat
+Meet the Press,9/20/09,Lindsey,Graham,m,Republican
+Meet the Press,9/20/09,John,Boehner,m,Republican
+State of the Union,9/20/09,Mitch,McConnell,m,Republican
+State of the Union,9/20/09,Barack,Obama,m,Democrat
+This Week,9/20/09,Barack,Obama,m,Democrat
+Face the Nation,9/27/09,Hillary,Clinton,f,Democrat
+Face the Nation,9/27/09,Lindsey,Graham,m,Republican
+Fox News Sunday,9/27/09,Christopher,Bond,m,Republican
+Meet the Press,9/27/09,Jim,Webb,m,Democrat
+Meet the Press,9/27/09,Jon,Kyl,m,Republican
+State of the Union,9/27/09,Evan,Bayh,m,Democrat
+State of the Union,9/27/09,Bob,Corker,m,Republican
+This Week,9/27/09,John,McCain,m,Republican
+Face the Nation,10/4/09,James,Jones,m,Democrat
+Fox News Sunday,10/4/09,Saxby,Chambliss,m,Republican
+Fox News Sunday,10/4/09,Evan,Bayh,m,Democrat
+Fox News Sunday,10/4/09,Dianne,Feinstein,f,Democrat
+Fox News Sunday,10/4/09,Lindsey,Graham,m,Republican
+State of the Union,10/4/09,Barbara,Boxer,f,Democrat
+State of the Union,10/4/09,James,Jones,m,Democrat
+Face the Nation,10/11/09,Mitch,McConnell,m,Republican
+Meet the Press,10/11/09,Lindsey,Graham,m,Republican
+State of the Union,10/11/09,John,McCain,m,Republican
+State of the Union,10/11/09,Debbie,Stabenow,f,Democrat
+This Week,10/11/09,Saxby,Chambliss,m,Republican
+This Week,10/11/09,Dianne,Feinstein,f,Democrat
+Face the Nation,10/18/09,Rahm,Emanuel,m,Democrat
+Face the Nation,10/18/09,John,Cornyn,m,Republican
+Face the Nation,10/18/09,John,Kerry,m,Democrat
+Fox News Sunday,10/18/09,Kent,Conrad,m,Democrat
+Fox News Sunday,10/18/09,John,Thune,m,Republican
+Meet the Press,10/18/09,Christopher,Dodd,m,Democrat
+Meet the Press,10/18/09,Jon,Kyl,m,Republican
+State of the Union,10/18/09,Rahm,Emanuel,m,Democrat
+State of the Union,10/18/09,Judd,Gregg,m,Republican
+State of the Union,10/18/09,John,Kerry,m,Democrat
+Face the Nation,10/25/09,John,McCain,m,Republican
+Fox News Sunday,10/25/09,Jon,Kyl,m,Republican
+Meet the Press,10/25/09,Charles,Schumer,m,Democrat
+Meet the Press,10/25/09,Joe,Scarborough,m,Republican
+Meet the Press,10/25/09,John,Cornyn,m,Republican
+State of the Union,10/25/09,Jim,Webb,m,Democrat
+State of the Union,10/25/09,Sherrod,Brown,m,Democrat
+State of the Union,10/25/09,Ben,Nelson,m,Democrat
+State of the Union,10/25/09,Orrin,Hatch,m,Republican
+This Week,10/25/09,Mitch,McConnell,m,Republican
+This Week,10/25/09,Claire,McCaskill,f,Democrat
+Face the Nation,11/1/09,Joseph,Lieberman,m,Independent
+State of the Union,11/1/09,John,Boehner,m,Republican
+State of the Union,11/4/09,Jon,Kyl,m,Republican
+Face the Nation,11/8/09,Lindsey,Graham,m,Republican
+Fox News Sunday,11/8/09,Mike,Pence,m,Republican
+Fox News Sunday,11/8/09,Joseph,Lieberman,m,Independent
+Face the Nation,11/15/09,Patrick,Leahy,m,Democrat
+Fox News Sunday,11/15/09,Mitch,McConnell,m,Republican
+Meet the Press,11/15/09,Hillary,Clinton,f,Democrat
+This Week,11/15/09,Hillary,Clinton,f,Democrat
+Face the Nation,11/22/09,Charles,Schumer,m,Democrat
+Face the Nation,11/22/09,Jon,Kyl,m,Republican
+Fox News Sunday,11/22/09,Debbie,Stabenow,f,Democrat
+Fox News Sunday,11/22/09,Lamar,Alexander,m,Republican
+Fox News Sunday,11/22/09,Christopher,Bond,m,Republican
+Meet the Press,11/22/09,Richard,Durbin,m,Democrat
+Meet the Press,11/22/09,Dianne,Feinstein,f,Democrat
+Meet the Press,11/22/09,Joseph,Lieberman,m,Independent
+Meet the Press,11/22/09,Kay,Hutchison,f,Republican
+State of the Union,11/22/09,Mitch,McConnell,m,Republican
+State of the Union,11/22/09,Michael,Bennet,m,Democrat
+State of the Union,11/22/09,Sherrod,Brown,m,Democrat
+State of the Union,11/22/09,Jeanne,Shaheen,f,Democrat
+This Week,11/22/09,Marsha,Blackburn,f,Republican
+This Week,11/22/09,Ben,Nelson,m,Democrat
+Face the Nation,11/29/09,Richard,Armey,m,Republican
+Fox News Sunday,11/29/09,Evan,Bayh,m,Democrat
+Fox News Sunday,11/29/09,Jon,Kyl,m,Republican
+State of the Union,11/29/09,David,Obey,m,Democrat
+This Week,11/29/09,Lindsey,Graham,m,Republican
+This Week,11/29/09,Bernard,Sanders,m,Independent
+Face the Nation,12/6/09,Hillary,Clinton,f,Democrat
+Fox News Sunday,12/6/09,Richard,Durbin,m,Democrat
+Fox News Sunday,12/6/09,John,Cornyn,m,Republican
+Meet the Press,12/6/09,John,McCain,m,Republican
+Meet the Press,12/6/09,Hillary,Clinton,f,Democrat
+State of the Union,12/6/09,Dianne,Feinstein,f,Democrat
+State of the Union,12/6/09,Jon,Kyl,m,Republican
+State of the Union,12/6/09,James,Jones,m,Democrat
+This Week,12/6/09,Hillary,Clinton,f,Democrat
+Face the Nation,12/13/09,Mitch,McConnell,m,Republican
+Face the Nation,12/13/09,Ben,Nelson,m,Democrat
+Face the Nation,12/13/09,Joseph,Lieberman,m,Independent
+Face the Nation,12/13/09,John,Rockefeller,m,Democrat
+Fox News Sunday,12/13/09,Edward,Markey,m,Democrat
+Fox News Sunday,12/13/09,Judd,Gregg,m,Republican
+Fox News Sunday,12/13/09,Claire,McCaskill,f,Democrat
+State of the Union,12/13/09,John,Thune,m,Republican
+State of the Union,12/13/09,Mark,Warner,m,Democrat
+This Week,12/13/09,Eric,Cantor,m,Republican
+Face the Nation,12/20/09,Mary,Landrieu,f,Democrat
+Face the Nation,12/20/09,Lamar,Alexander,m,Republican
+Face the Nation,12/20/09,Sherrod,Brown,m,Democrat
+Face the Nation,12/20/09,Olympia,Snowe,f,Republican
+Fox News Sunday,12/20/09,Kent,Conrad,m,Democrat
+Fox News Sunday,12/20/09,John,McCain,m,Republican
+Fox News Sunday,12/20/09,Amy,Klobuchar,f,Democrat
+Meet the Press,12/20/09,Joe,Scarborough,m,Republican
+State of the Union,12/20/09,Ben,Nelson,m,Democrat
+State of the Union,12/20/09,Lindsey,Graham,m,Republican
+This Week,12/20/09,Richard,Durbin,m,Democrat
+This Week,12/20/09,Jon,Kyl,m,Republican
+Face the Nation,12/27/09,Peter,King,m,Republican
+Face the Nation,12/27/09,James,Clyburn,m,Democrat
+Fox News Sunday,12/27/09,Jim,DeMint,m,Republican
+Fox News Sunday,12/27/09,Joseph,Lieberman,m,Independent
+Fox News Sunday,12/27/09,Richard,Shelby,m,Republican
+This Week,12/27/09,Mitch,McConnell,m,Republican
+Face the Nation,1/3/10,David,Martin,m,Republican
+State of the Union,1/3/10,Jim,DeMint,m,Republican
+State of the Union,1/3/10,Claire,McCaskill,f,Democrat
+This Week,1/3/10,Susan,Collins,f,Republican
+This Week,1/3/10,Jane,Harman,f,Democrat
+This Week,1/3/10,Joseph,Lieberman,m,Independent
+Face the Nation,1/10/10,Dianne,Feinstein,f,Democrat
+Fox News Sunday,1/10/10,Jon,Kyl,m,Republican
+State of the Union,1/10/10,John,McCain,m,Republican
+State of the Union,1/10/10,Joseph,Lieberman,m,Independent
+Fox News Sunday,1/17/10,Mitch,McConnell,m,Republican
+State of the Union,1/17/10,Eleanor,Norton,f,Democrat
+Face the Nation,1/24/10,John,McCain,m,Republican
+Face the Nation,1/24/10,Richard,Durbin,m,Democrat
+Fox News Sunday,1/24/10,John,Cornyn,m,Republican
+Meet the Press,1/24/10,Mitch,McConnell,m,Republican
+State of the Union,1/24/10,Richard,Shelby,m,Republican
+State of the Union,1/24/10,Orrin,Hatch,m,Republican
+This Week,1/24/10,Jim,DeMint,m,Republican
+Fox News Sunday,1/31/10,Paul,Ryan,m,Republican
+Fox News Sunday,1/31/10,Lamar,Alexander,m,Republican
+Fox News Sunday,1/31/10,Evan,Bayh,m,Democrat
+Meet the Press,1/31/10,John,Boehner,m,Republican
+State of the Union,1/31/10,Mitch,McConnell,m,Republican
+This Week,1/31/10,Scott,Brown,m,Republican
+State of the Union,2/7/10,Hillary,Clinton,f,Democrat
+Face the Nation,2/14/10,Joseph,Biden,m,Democrat
+Fox News Sunday,2/14/10,James,Jones,m,Democrat
+Meet the Press,2/14/10,Aaron,Schock,m,Republican
+Meet the Press,2/14/10,Joseph,Biden,m,Democrat
+Meet the Press,2/14/10,Harold,Ford,m,Democrat
+Meet the Press,2/14/10,Harold,Ford,m,Democrat
+State of the Union,2/14/10,Jon,Kyl,m,Republican
+State of the Union,2/14/10,James,Jones,m,Democrat
+Fox News Sunday,2/21/10,Mitch,McConnell,m,Republican
+Meet the Press,2/21/10,Mike,Pence,m,Republican
+State of the Union,2/21/10,Evan,Bayh,m,Democrat
+Face the Nation,2/28/10,Marsha,Blackburn,f,Republican
+Face the Nation,2/28/10,Kent,Conrad,m,Democrat
+Face the Nation,2/28/10,Steny,Hoyer,m,Democrat
+Fox News Sunday,2/28/10,Paul,Ryan,m,Republican
+Fox News Sunday,2/28/10,Jon,Kyl,m,Republican
+Meet the Press,2/28/10,John,McCain,m,Republican
+Meet the Press,2/28/10,Eric,Cantor,m,Republican
+State of the Union,2/28/10,Mitch,McConnell,m,Republican
+State of the Union,2/28/10,Nancy,Pelosi,f,Democrat
+This Week,2/28/10,Lamar,Alexander,m,Republican
+This Week,2/28/10,Nancy,Pelosi,f,Democrat
+Face the Nation,3/7/10,Lindsey,Graham,m,Republican
+Face the Nation,3/7/10,Evan,Bayh,m,Democrat
+Fox News Sunday,3/7/10,Jason,Altmire,m,Democrat
+Fox News Sunday,3/7/10,John,Adler,m,Democrat
+Meet the Press,3/7/10,Orrin,Hatch,m,Republican
+Meet the Press,3/7/10,Harold,Ford,m,Democrat
+Meet the Press,3/7/10,Harold,Ford,m,Democrat
+State of the Union,3/7/10,Thomas,DeLay,m,Republican
+State of the Union,3/7/10,Brian,Baird,m,Democrat
+This Week,3/7/10,Mitch,McConnell,m,Republican
+Face the Nation,3/14/10,Lamar,Alexander,m,Republican
+Fox News Sunday,3/14/10,Eric,Cantor,m,Republican
+Meet the Press,3/14/10,James,Clyburn,m,Democrat
+Meet the Press,3/14/10,Richard,Durbin,m,Democrat
+State of the Union,3/14/10,John,Boehner,m,Republican
+This Week,3/14/10,Lindsey,Graham,m,Republican
+Face the Nation,3/21/10,Mitch,McConnell,m,Republican
+Face the Nation,3/21/10,James,Clyburn,m,Democrat
+Face the Nation,3/21/10,Richard,Durbin,m,Democrat
+Meet the Press,3/21/10,Steny,Hoyer,m,Democrat
+Meet the Press,3/21/10,John,Boehner,m,Republican
+State of the Union,3/21/10,Dianne,Feinstein,f,Democrat
+State of the Union,3/21/10,John,Larson,m,Democrat
+State of the Union,3/21/10,Mike,Pence,m,Republican
+State of the Union,3/21/10,Orrin,Hatch,m,Republican
+This Week,3/21/10,Trent,Lott,m,Republican
+This Week,3/21/10,Eric,Cantor,m,Republican
+This Week,3/21/10,John,Larson,m,Democrat
+Face the Nation,3/28/10,Jim,DeMint,m,Republican
+Face the Nation,3/28/10,Michele,Bachmann,f,Republican
+Fox News Sunday,3/28/10,Paul,Ryan,m,Republican
+Fox News Sunday,3/28/10,John,Cornyn,m,Republican
+Meet the Press,3/28/10,Charles,Schumer,m,Democrat
+Meet the Press,3/28/10,Lindsey,Graham,m,Republican
+State of the Union,3/28/10,Lamar,Alexander,m,Republican
+State of the Union,3/28/10,Barbara,Mikulski,f,Democrat
+Fox News Sunday,4/4/10,Kevin,McCarthy,m,Republican
+Fox News Sunday,4/4/10,Jon,Kyl,m,Republican
+Meet the Press,4/4/10,Jane,Harman,f,Democrat
+Meet the Press,4/4/10,Joseph,Lieberman,m,Independent
+Face the Nation,4/11/10,Hillary,Clinton,f,Democrat
+Fox News Sunday,4/11/10,Lamar,Alexander,m,Republican
+Fox News Sunday,4/11/10,Michele,Bachmann,f,Republican
+Fox News Sunday,4/11/10,Joseph,Lieberman,m,Independent
+Meet the Press,4/11/10,Hillary,Clinton,f,Democrat
+Meet the Press,4/11/10,Patrick,Leahy,m,Democrat
+Meet the Press,4/11/10,Harold,Ford,m,Democrat
+Meet the Press,4/11/10,Harold,Ford,m,Democrat
+This Week,4/11/10,Hillary,Clinton,f,Democrat
+This Week,4/11/10,Charles,Schumer,m,Democrat
+This Week,4/11/10,Jon,Kyl,m,Republican
+Face the Nation,4/18/10,Scott,Brown,m,Republican
+Fox News Sunday,4/18/10,John,McCain,m,Republican
+Meet the Press,4/18/10,Marsha,Blackburn,f,Republican
+State of the Union,4/18/10,Mitch,McConnell,m,Republican
+State of the Union,4/18/10,Mark,Warner,m,Democrat
+Fox News Sunday,4/25/10,Mitch,McConnell,m,Republican
+Meet the Press,4/25/10,Christopher,Dodd,m,Democrat
+Meet the Press,4/25/10,Richard,Shelby,m,Republican
+State of the Union,4/25/10,Saxby,Chambliss,m,Republican
+This Week,4/25/10,Sherrod,Brown,m,Democrat
+This Week,4/25/10,Bob,Corker,m,Republican
+Face the Nation,5/2/10,Mary,Landrieu,f,Democrat
+Face the Nation,5/2/10,Bill,Nelson,m,Democrat
+Fox News Sunday,5/2/10,Ken,Salazar,m,Democrat
+Fox News Sunday,5/2/10,Marco,Rubio,m,Republican
+Meet the Press,5/2/10,Ken,Salazar,m,Democrat
+Meet the Press,5/2/10,Hillary,Clinton,f,Democrat
+Meet the Press,5/2/10,Lamar,Alexander,m,Republican
+Meet the Press,5/2/10,Charlie,Crist,m,Democrat
+Meet the Press,5/2/10,Mike,Pence,m,Republican
+State of the Union,5/2/10,Ken,Salazar,m,Democrat
+State of the Union,5/2/10,Charlie,Crist,m,Democrat
+State of the Union,5/2/10,Marco,Rubio,m,Republican
+This Week,5/2/10,Ken,Salazar,m,Democrat
+Face the Nation,5/9/10,Christopher,Dodd,m,Democrat
+Face the Nation,5/9/10,Richard,Shelby,m,Republican
+Fox News Sunday,5/9/10,Peter,King,m,Republican
+Fox News Sunday,5/9/10,Joseph,Lieberman,m,Independent
+State of the Union,5/9/10,Bill,Nelson,m,Democrat
+State of the Union,5/9/10,Richard,Shelby,m,Republican
+Face the Nation,5/16/10,Dianne,Feinstein,f,Democrat
+Face the Nation,5/16/10,Jon,Kyl,m,Republican
+Meet the Press,5/16/10,Mitch,McConnell,m,Republican
+Meet the Press,5/16/10,Charles,Schumer,m,Democrat
+State of the Union,5/16/10,Joe,Sestak,m,Democrat
+This Week,5/16/10,Patrick,Leahy,m,Democrat
+Face the Nation,5/23/10,Lamar,Alexander,m,Republican
+Face the Nation,5/23/10,Joe,Sestak,m,Democrat
+Meet the Press,5/23/10,Joe,Sestak,m,Democrat
+Meet the Press,5/23/10,John,Cornyn,m,Republican
+Face the Nation,5/30/10,Edward,Markey,m,Democrat
+Fox News Sunday,5/30/10,Darrell,Issa,m,Republican
+State of the Union,5/30/10,David,Vitter,m,Republican
+State of the Union,5/30/10,Jim,Webb,m,Democrat
+This Week,5/30/10,Bobby,Jindal,m,Republican
+Face the Nation,6/6/10,Bill,Nelson,m,Democrat
+State of the Union,6/6/10,Charlie,Crist,m,Democrat
+This Week,6/6/10,John,Cornyn,m,Republican
+This Week,6/6/10,John,Kerry,m,Democrat
+Face the Nation,6/13/10,Charlie,Crist,m,Democrat
+Face the Nation,6/13/10,Bob,Riley,m,Republican
+State of the Union,6/13/10,James,Clyburn,m,Democrat
+State of the Union,6/13/10,Mike,Pence,m,Republican
+State of the Union,6/13/10,Bob,Riley,m,Republican
+This Week,6/13/10,Steny,Hoyer,m,Democrat
+This Week,6/13/10,John,Boehner,m,Republican
+This Week,6/13/10,Thomas,Davis,m,Republican
+Face the Nation,6/20/10,Anh,Cao,m,Republican
+Face the Nation,6/20/10,Barbara,Boxer,f,Democrat
+Face the Nation,6/20/10,Bill,Nelson,m,Democrat
+Face the Nation,6/20/10,Richard,Shelby,m,Republican
+Fox News Sunday,6/20/10,Mitch,McConnell,m,Republican
+Meet the Press,6/20/10,Edward,Markey,m,Democrat
+Meet the Press,6/20/10,Mary,Landrieu,f,Democrat
+State of the Union,6/20/10,Dianne,Feinstein,f,Democrat
+State of the Union,6/20/10,Joseph,Lieberman,m,Independent
+This Week,6/20/10,Rahm,Emanuel,m,Democrat
+Face the Nation,6/27/10,David,Martin,m,Republican
+Face the Nation,6/27/10,Patrick,Leahy,m,Democrat
+Fox News Sunday,6/27/10,Lindsey,Graham,m,Republican
+Fox News Sunday,6/27/10,Dianne,Feinstein,f,Democrat
+Meet the Press,6/27/10,John,McCain,m,Republican
+Meet the Press,6/27/10,Barbara,Lee,f,Democrat
+State of the Union,6/27/10,Saxby,Chambliss,m,Republican
+State of the Union,6/27/10,John,Cornyn,m,Republican
+This Week,6/27/10,Leon,Panetta,m,Democrat
+Face the Nation,7/4/10,Lindsey,Graham,m,Republican
+Fox News Sunday,7/4/10,Jim,DeMint,m,Republican
+Fox News Sunday,7/4/10,Joseph,Lieberman,m,Independent
+State of the Union,7/4/10,Mike,Coffman,m,Republican
+State of the Union,7/4/10,John,Boccieri,m,Democrat
+State of the Union,7/4/10,Duncan,Hunter,m,Republican
+State of the Union,7/4/10,Duncan,Hunter,m,Republican
+This Week,7/4/10,John,McCain,m,Republican
+Fox News Sunday,7/11/10,Jon,Kyl,m,Republican
+Meet the Press,7/11/10,Harold,Ford,m,Democrat
+Meet the Press,7/11/10,Harold,Ford,m,Democrat
+State of the Union,7/11/10,Trent,Franks,m,Republican
+This Week,7/11/10,Brian,Bilbray,m,Republican
+Fox News Sunday,7/18/10,David,Vitter,m,Republican
+Fox News Sunday,7/18/10,James,Clyburn,m,Democrat
+Fox News Sunday,7/18/10,Mike,Pence,m,Republican
+Meet the Press,7/18/10,Pete,Sessions,m,Republican
+Meet the Press,7/18/10,John,Cornyn,m,Republican
+State of the Union,7/18/10,Mitch,McConnell,m,Republican
+State of the Union,7/18/10,Steny,Hoyer,m,Democrat
+This Week,7/18/10,Joseph,Biden,m,Democrat
+Fox News Sunday,7/25/10,Jesse,Jackson,m,Democrat
+Face the Nation,8/1/10,Jon,Kyl,m,Republican
+Fox News Sunday,8/1/10,Mitch,McConnell,m,Republican
+Fox News Sunday,8/1/10,John,Boehner,m,Republican
+State of the Union,8/1/10,Lindsey,Graham,m,Republican
+This Week,8/1/10,Nancy,Pelosi,f,Democrat
+Meet the Press,8/8/10,John,Boehner,m,Republican
+Meet the Press,8/8/10,Mike,Pence,m,Republican
+Meet the Press,8/8/10,Harold,Ford,m,Democrat
+Meet the Press,8/8/10,Harold,Ford,m,Democrat
+Fox News Sunday,8/15/10,John,Cornyn,m,Republican
+State of the Union,8/15/10,Kevin,McCarthy,m,Republican
+This Week,8/15/10,Jon,Corzine,m,Democrat
+This Week,8/15/10,Bob,Corker,m,Republican
+Face the Nation,8/22/10,Lindsey,Graham,m,Republican
+Fox News Sunday,8/22/10,Rod,Blagojevich,m,Democrat
+Meet the Press,8/22/10,Mitch,McConnell,m,Republican
+Meet the Press,8/22/10,Richard,Armey,m,Republican
+Meet the Press,8/22/10,Rick,Lazio,m,Republican
+Face the Nation,8/29/10,Kendrick,Meek,m,Democrat
+Meet the Press,8/29/10,Mary,Landrieu,f,Democrat
+State of the Union,8/29/10,Kendrick,Meek,m,Democrat
+State of the Union,8/29/10,Charlie,Crist,m,Democrat
+Fox News Sunday,9/5/10,John,McCain,m,Republican
+Meet the Press,9/5/10,Lindsey,Graham,m,Republican
+Face the Nation,9/12/10,John,Boehner,m,Republican
+Face the Nation,9/12/10,Keith,Ellison,m,Democrat
+State of the Union,9/12/10,Trent,Lott,m,Republican
+State of the Union,9/12/10,Richard,Armey,m,Republican
+State of the Union,9/12/10,Steny,Hoyer,m,Democrat
+State of the Union,9/19/10,Jim,DeMint,m,Republican
+State of the Union,9/19/10,Thomas,Davis,m,Republican
+This Week,9/19/10,Hillary,Clinton,f,Democrat
+Face the Nation,9/26/10,Marco,Rubio,m,Republican
+Fox News Sunday,9/26/10,Kevin,McCarthy,m,Republican
+Fox News Sunday,9/26/10,Steny,Hoyer,m,Democrat
+Fox News Sunday,9/26/10,John,Boehner,m,Republican
+Meet the Press,9/26/10,Mike,Pence,m,Republican
+State of the Union,9/26/10,Marsha,Blackburn,f,Republican
+State of the Union,9/26/10,Joseph,Lieberman,m,Independent
+State of the Union,9/26/10,Richard,Durbin,m,Democrat
+This Week,9/26/10,Mitch,McConnell,m,Republican
+Face the Nation,10/3/10,Rand,Paul,m,Republican
+Fox News Sunday,10/3/10,John,Cornyn,m,Republican
+Fox News Sunday,10/10/10,Eric,Cantor,m,Republican
+Meet the Press,10/10/10,Mark,Kirk,m,Republican
+State of the Union,10/10/10,Kevin,McCarthy,m,Republican
+This Week,10/10/10,Richard,Blumenthal,m,Democrat
+Face the Nation,10/17/10,Lindsey,Graham,m,Republican
+Fox News Sunday,10/17/10,John,Cornyn,m,Republican
+Fox News Sunday,10/17/10,Claire,McCaskill,f,Democrat
+Meet the Press,10/17/10,Michael,Bennet,m,Democrat
+Fox News Sunday,10/24/10,Patrick,Toomey,m,Republican
+Meet the Press,10/24/10,Harold,Ford,m,Democrat
+Meet the Press,10/24/10,Harold,Ford,m,Democrat
+State of the Union,10/24/10,Kendrick,Meek,m,Democrat
+State of the Union,10/24/10,Charlie,Crist,m,Democrat
+State of the Union,10/24/10,Marco,Rubio,m,Republican
+Face the Nation,10/31/10,Amy,Klobuchar,f,Democrat
+Face the Nation,10/31/10,Peter,King,m,Republican
+State of the Union,10/31/10,Richard,Durbin,m,Democrat
+This Week,10/31/10,Richard,Armey,m,Republican
+This Week,10/31/10,John,Cornyn,m,Republican
+Face the Nation,11/7/10,Mitch,McConnell,m,Republican
+Face the Nation,11/7/10,James,Clyburn,m,Democrat
+Fox News Sunday,11/7/10,Paul,Ryan,m,Republican
+Fox News Sunday,11/7/10,Darrell,Issa,m,Republican
+Fox News Sunday,11/7/10,Eric,Cantor,m,Republican
+Meet the Press,11/7/10,Jim,DeMint,m,Republican
+State of the Union,11/7/10,Patrick,Toomey,m,Republican
+This Week,11/7/10,Rand,Paul,m,Republican
+This Week,11/7/10,Evan,Bayh,m,Democrat
+This Week,11/7/10,David,Stockman,m,Republican
+This Week,11/7/10,Mike,Pence,m,Republican
+Face the Nation,11/14/10,Charles,Schumer,m,Democrat
+Face the Nation,11/14/10,Rand,Paul,m,Republican
+Fox News Sunday,11/14/10,Jim,DeMint,m,Republican
+Meet the Press,11/14/10,John,McCain,m,Republican
+Meet the Press,11/14/10,Harold,Ford,m,Democrat
+Meet the Press,11/14/10,Harold,Ford,m,Democrat
+State of the Union,11/14/10,Heath,Shuler,m,Democrat
+State of the Union,11/14/10,James,Clyburn,m,Democrat
+State of the Union,11/14/10,Thomas,Davis,m,Republican
+State of the Union,11/14/10,John,Cornyn,m,Republican
+State of the Union,11/14/10,Mark,Warner,m,Democrat
+This Week,11/14/10,Kent,Conrad,m,Democrat
+This Week,11/14/10,Lindsey,Graham,m,Republican
+Face the Nation,11/21/10,Hillary,Clinton,f,Democrat
+Face the Nation,11/21/10,Steny,Hoyer,m,Democrat
+Fox News Sunday,11/21/10,Hillary,Clinton,f,Democrat
+Meet the Press,11/21/10,Hillary,Clinton,f,Democrat
+Meet the Press,11/21/10,Allen,West,m,Republican
+Meet the Press,11/21/10,Bobby,Jindal,m,Republican
+State of the Union,11/21/10,John,Mica,m,Republican
+Fox News Sunday,11/28/10,Lindsey,Graham,m,Republican
+Fox News Sunday,11/28/10,Claire,McCaskill,f,Democrat
+Meet the Press,11/28/10,Jon,Kyl,m,Republican
+Meet the Press,11/28/10,Richard,Durbin,m,Democrat
+State of the Union,11/28/10,John,McCain,m,Republican
+State of the Union,11/28/10,David,Obey,m,Democrat
+State of the Union,11/28/10,Byron,Dorgan,m,Democrat
+Face the Nation,12/5/10,Jon,Kyl,m,Republican
+Face the Nation,12/5/10,Richard,Durbin,m,Democrat
+Fox News Sunday,12/5/10,Kent,Conrad,m,Democrat
+Fox News Sunday,12/5/10,Jeb,Hensarling,m,Republican
+Meet the Press,12/5/10,Mitch,McConnell,m,Republican
+Meet the Press,12/5/10,John,Kerry,m,Democrat
+State of the Union,12/5/10,Ron,Wyden,m,Democrat
+State of the Union,12/5/10,Orrin,Hatch,m,Republican
+Face the Nation,12/12/10,Jerrold,Nadler,m,Democrat
+Fox News Sunday,12/12/10,Paul,Ryan,m,Republican
+Meet the Press,12/12/10,Anthony,Weiner,m,Democrat
+Meet the Press,12/12/10,Harold,Ford,m,Democrat
+Meet the Press,12/12/10,Harold,Ford,m,Democrat
+State of the Union,12/12/10,Elijah,Cummings,m,Democrat
+State of the Union,12/12/10,Jim,McDermott,m,Democrat
+State of the Union,12/12/10,Richard,Durbin,m,Democrat
+Face the Nation,12/19/10,Amy,Klobuchar,f,Democrat
+Face the Nation,12/19/10,Lindsey,Graham,m,Republican
+Fox News Sunday,12/19/10,Jon,Kyl,m,Republican
+Fox News Sunday,12/19/10,Richard,Durbin,m,Democrat
+Meet the Press,12/19/10,Cory,Booker,m,Democrat
+Meet the Press,12/19/10,Joseph,Biden,m,Democrat
+Meet the Press,12/19/10,Joe,Scarborough,m,Republican
+State of the Union,12/19/10,Mitch,McConnell,m,Republican
+This Week,12/19/10,John,Kerry,m,Democrat
+Face the Nation,12/26/10,David,Martin,m,Republican
+Face the Nation,1/2/11,Darrell,Issa,m,Republican
+Face the Nation,1/2/11,Anthony,Weiner,m,Democrat
+Face the Nation,1/2/11,Michele,Bachmann,f,Republican
+Face the Nation,1/2/11,Mike,Kelly,m,Republican
+Fox News Sunday,1/2/11,Darrell,Issa,m,Republican
+Fox News Sunday,1/2/11,Allen,West,m,Republican
+Fox News Sunday,1/2/11,Fred,Upton,m,Republican
+Fox News Sunday,1/2/11,Mike,Lee,m,Republican
+Meet the Press,1/2/11,Lindsey,Graham,m,Republican
+Meet the Press,1/2/11,Patrick,Toomey,m,Republican
+State of the Union,1/2/11,Darrell,Issa,m,Republican
+State of the Union,1/2/11,Elijah,Cummings,m,Democrat
+State of the Union,1/2/11,Steve,Israel,m,Democrat
+State of the Union,1/2/11,Jason,Altmire,m,Democrat
+Face the Nation,1/9/11,Charles,Schumer,m,Democrat
+Face the Nation,1/9/11,Steny,Hoyer,m,Democrat
+Face the Nation,1/9/11,Jon,Kyl,m,Republican
+Fox News Sunday,1/9/11,Rand,Paul,m,Republican
+Meet the Press,1/9/11,Harry,Reid,m,Democrat
+State of the Union,1/9/11,Lamar,Alexander,m,Republican
+State of the Union,1/9/11,Austin,Scott,m,Republican
+State of the Union,1/9/11,Mike,Lee,m,Republican
+State of the Union,1/9/11,Richard,Durbin,m,Democrat
+This Week,1/9/11,Paul,Ryan,m,Republican
+This Week,1/9/11,Richard,Armey,m,Republican
+This Week,1/9/11,Mike,Lee,m,Republican
+Face the Nation,1/16/11,Kirsten,Gillibrand,f,Democrat
+Face the Nation,1/16/11,Jeff,Flake,m,Republican
+Meet the Press,1/16/11,Kirsten,Gillibrand,f,Democrat
+Meet the Press,1/16/11,Charles,Schumer,m,Democrat
+State of the Union,1/16/11,Grace,Napolitano,f,Democrat
+State of the Union,1/16/11,Tim,Murphy,m,Republican
+Face the Nation,1/23/11,John,McCain,m,Republican
+Face the Nation,1/23/11,Charles,Schumer,m,Democrat
+Fox News Sunday,1/23/11,Mitch,McConnell,m,Republican
+Fox News Sunday,1/23/11,Richard,Durbin,m,Democrat
+Meet the Press,1/23/11,Eric,Cantor,m,Republican
+Meet the Press,1/23/11,James,Clyburn,m,Democrat
+State of the Union,1/23/11,Nancy,Pelosi,f,Democrat
+This Week,1/23/11,Kent,Conrad,m,Democrat
+This Week,1/23/11,Mike,Lee,m,Republican
+This Week,1/23/11,Joseph,Lieberman,m,Independent
+This Week,1/23/11,Kay,Hutchison,f,Republican
+Face the Nation,1/30/11,Hillary,Clinton,f,Democrat
+Fox News Sunday,1/30/11,Hillary,Clinton,f,Democrat
+Fox News Sunday,1/30/11,John,Boehner,m,Republican
+Meet the Press,1/30/11,Mitch,McConnell,m,Republican
+Meet the Press,1/30/11,Hillary,Clinton,f,Democrat
+State of the Union,1/30/11,John,McCain,m,Republican
+State of the Union,1/30/11,Hillary,Clinton,f,Democrat
+State of the Union,1/30/11,Charles,Schumer,m,Democrat
+This Week,1/30/11,Hillary,Clinton,f,Democrat
+This Week,1/30/11,David,Stockman,m,Republican
+Meet the Press,2/6/11,John,Kerry,m,Democrat
+Face the Nation,2/13/11,John,McCain,m,Republican
+Fox News Sunday,2/13/11,Paul,Ryan,m,Republican
+Meet the Press,2/13/11,John,Boehner,m,Republican
+State of the Union,2/13/11,Lindsey,Graham,m,Republican
+Face the Nation,2/20/11,Paul,Ryan,m,Republican
+Fox News Sunday,2/20/11,Claire,McCaskill,f,Democrat
+Meet the Press,2/20/11,Lindsey,Graham,m,Republican
+Meet the Press,2/20/11,Harold,Ford,m,Democrat
+Meet the Press,2/20/11,Harold,Ford,m,Democrat
+Meet the Press,2/20/11,Richard,Durbin,m,Democrat
+State of the Union,2/20/11,Charles,Schumer,m,Democrat
+This Week,2/20/11,Hillary,Clinton,f,Democrat
+Meet the Press,2/27/11,John,McCain,m,Republican
+Face the Nation,3/6/11,Mitch,McConnell,m,Republican
+Face the Nation,3/6/11,John,Kerry,m,Democrat
+Fox News Sunday,3/6/11,Jeb,Hensarling,m,Republican
+Fox News Sunday,3/6/11,Richard,Durbin,m,Democrat
+Meet the Press,3/6/11,Michele,Bachmann,f,Republican
+State of the Union,3/6/11,Peter,King,m,Republican
+State of the Union,3/6/11,Lamar,Alexander,m,Republican
+State of the Union,3/6/11,Keith,Ellison,m,Democrat
+This Week,3/6/11,John,McCain,m,Republican
+Face the Nation,3/13/11,Mary,Landrieu,f,Democrat
+Face the Nation,3/13/11,Joseph,Lieberman,m,Independent
+Fox News Sunday,3/13/11,Mitch,McConnell,m,Republican
+Fox News Sunday,3/13/11,Saxby,Chambliss,m,Republican
+Fox News Sunday,3/13/11,Mark,Warner,m,Democrat
+Meet the Press,3/13/11,Charles,Schumer,m,Democrat
+State of the Union,3/13/11,Kevin,McCarthy,m,Republican
+State of the Union,3/13/11,Jon,Kyl,m,Republican
+State of the Union,3/13/11,Richard,Durbin,m,Democrat
+Face the Nation,3/20/11,Edward,Markey,m,Democrat
+Fox News Sunday,3/20/11,Jim,Jordan,m,Republican
+Fox News Sunday,3/20/11,Lindsey,Graham,m,Republican
+Fox News Sunday,3/20/11,Rand,Paul,m,Republican
+State of the Union,3/20/11,John,McCain,m,Republican
+State of the Union,3/20/11,Joseph,Lieberman,m,Independent
+This Week,3/20/11,Jane,Harman,f,Democrat
+Face the Nation,3/27/11,Hillary,Clinton,f,Democrat
+Fox News Sunday,3/27/11,John,McCain,m,Republican
+Fox News Sunday,3/27/11,Joseph,Lieberman,m,Independent
+Meet the Press,3/27/11,Hillary,Clinton,f,Democrat
+This Week,3/27/11,Hillary,Clinton,f,Democrat
+This Week,3/27/11,Joe,Sestak,m,Democrat
+Face the Nation,4/3/11,Harry,Reid,m,Democrat
+Face the Nation,4/3/11,Lindsey,Graham,m,Republican
+Fox News Sunday,4/3/11,Paul,Ryan,m,Republican
+Fox News Sunday,4/3/11,Christopher,Dodd,m,Democrat
+Fox News Sunday,4/3/11,Marco,Rubio,m,Republican
+Meet the Press,4/3/11,Mike,Rogers,m,Republican
+Meet the Press,4/3/11,Mike,Rogers,m,Republican
+Meet the Press,4/3/11,Richard,Durbin,m,Democrat
+State of the Union,4/3/11,John,Cornyn,m,Republican
+State of the Union,4/3/11,James,Jones,m,Democrat
+State of the Union,4/3/11,Mark,Warner,m,Democrat
+This Week,4/3/11,Charles,Schumer,m,Democrat
+This Week,4/3/11,James,Jones,m,Democrat
+Face the Nation,4/10/11,Charles,Schumer,m,Democrat
+Fox News Sunday,4/10/11,Eric,Cantor,m,Republican
+Meet the Press,4/10/11,Paul,Ryan,m,Republican
+State of the Union,4/10/11,Jeb,Hensarling,m,Republican
+State of the Union,4/10/11,Richard,Durbin,m,Democrat
+This Week,4/10/11,Mike,Pence,m,Republican
+Face the Nation,4/17/11,Paul,Ryan,m,Republican
+Face the Nation,4/17/11,Mark,Warner,m,Democrat
+Fox News Sunday,4/17/11,Ray,LaHood,m,Republican
+State of the Union,4/17/11,Anthony,Weiner,m,Democrat
+State of the Union,4/17/11,Rand,Paul,m,Republican
+This Week,4/17/11,Allen,West,m,Republican
+This Week,4/17/11,Joe,Walsh,m,Republican
+This Week,4/17/11,Renee,Ellmers,m,Republican
+Face the Nation,4/24/11,Tim,Griffin,m,Republican
+Face the Nation,4/24/11,Joe,Walsh,m,Republican
+Face the Nation,4/24/11,Richard,Blumenthal,m,Democrat
+Face the Nation,4/24/11,Mark,Kirk,m,Republican
+Meet the Press,4/24/11,Kent,Conrad,m,Democrat
+State of the Union,4/24/11,Michael,Bennet,m,Democrat
+State of the Union,4/24/11,Lamar,Alexander,m,Republican
+State of the Union,4/24/11,Lindsey,Graham,m,Republican
+State of the Union,4/24/11,Joseph,Lieberman,m,Independent
+Face the Nation,5/1/11,John,McCain,m,Republican
+Fox News Sunday,5/1/11,Kent,Conrad,m,Democrat
+Fox News Sunday,5/1/11,Lindsey,Graham,m,Republican
+Fox News Sunday,5/1/11,Michele,Bachmann,f,Republican
+Meet the Press,5/1/11,Marco,Rubio,m,Republican
+State of the Union,5/1/11,Michael,Bennet,m,Democrat
+State of the Union,5/1/11,Lamar,Alexander,m,Republican
+State of the Union,5/1/11,Jane,Harman,f,Democrat
+State of the Union,5/1/11,John,Barrasso,m,Republican
+This Week,5/1/11,Paul,Ryan,m,Republican
+This Week,5/1/11,David,Stockman,m,Republican
+Face the Nation,5/8/11,John,Kerry,m,Democrat
+State of the Union,5/8/11,Thomas,Davis,m,Republican
+Face the Nation,5/15/11,John,Boehner,m,Republican
+Fox News Sunday,5/15/11,Jon,Kyl,m,Republican
+Fox News Sunday,5/15/11,Richard,Durbin,m,Democrat
+State of the Union,5/15/11,Paul,Ryan,m,Republican
+State of the Union,5/15/11,Mitch,McConnell,m,Republican
+Fox News Sunday,5/22/11,Mitch,McConnell,m,Republican
+Fox News Sunday,5/22/11,Evan,Bayh,m,Democrat
+Meet the Press,5/22/11,Paul,Ryan,m,Republican
+State of the Union,5/22/11,Richard,Durbin,m,Democrat
+State of the Union,5/22/11,Richard,Armey,m,Republican
+State of the Union,5/22/11,Mike,Rogers,m,Republican
+State of the Union,5/22/11,Mike,Rogers,m,Republican
+Face the Nation,5/31/11,Eric,Cantor,m,Republican
+Fox News Sunday,5/31/11,John,McCain,m,Republican
+Fox News Sunday,5/31/11,Allen,West,m,Republican
+Fox News Sunday,5/31/11,Donna,Edwards,f,Democrat
+Meet the Press,5/31/11,Mitch,McConnell,m,Republican
+Meet the Press,5/31/11,Charles,Schumer,m,Democrat
+Meet the Press,5/31/11,Harold,Ford,m,Democrat
+Meet the Press,5/31/11,Harold,Ford,m,Democrat
+State of the Union,5/31/11,Patty,Murray,f,Democrat
+Face the Nation,6/5/11,Nancy,Pelosi,f,Democrat
+Face the Nation,6/12/11,Paul,Ryan,m,Republican
+Face the Nation,6/12/11,Steny,Hoyer,m,Democrat
+Face the Nation,6/12/11,Lindsey,Graham,m,Republican
+State of the Union,6/12/11,John,Sununu,m,Republican
+State of the Union,6/12/11,Charles,Bass,m,Republican
+State of the Union,6/12/11,John,Sununu,m,Republican
+State of the Union,6/12/11,Kelly,Ayotte,f,Republican
+This Week,6/12/11,Jon,Corzine,m,Democrat
+This Week,6/12/11,Richard,Shelby,m,Republican
+Face the Nation,6/19/11,Mitch,McConnell,m,Republican
+Face the Nation,6/19/11,Charles,Schumer,m,Democrat
+Face the Nation,6/19/11,Mike,Rogers,m,Republican
+Face the Nation,6/19/11,Mike,Rogers,m,Republican
+Meet the Press,6/19/11,Richard,Durbin,m,Democrat
+Meet the Press,6/19/11,Lindsey,Graham,m,Republican
+This Week,6/19/11,John,McCain,m,Republican
+Face the Nation,6/26/11,Michele,Bachmann,f,Republican
+Fox News Sunday,6/26/11,Michele,Bachmann,f,Republican
+Fox News Sunday,6/26/11,Jon,Kyl,m,Republican
+Meet the Press,6/26/11,Jim,Webb,m,Democrat
+State of the Union,6/26/11,Jim,DeMint,m,Republican
+State of the Union,6/26/11,Nancy,Pelosi,f,Democrat
+State of the Union,6/26/11,Mike,Rogers,m,Republican
+State of the Union,6/26/11,Mike,Rogers,m,Republican
+This Week,6/26/11,Mitch,McConnell,m,Republican
+This Week,6/26/11,James,Clyburn,m,Democrat
+Face the Nation,7/3/11,John,Kasich,m,Republican
+Fox News Sunday,7/3/11,Lindsey,Graham,m,Republican
+Fox News Sunday,7/3/11,Joseph,Lieberman,m,Independent
+Fox News Sunday,7/3/11,John,Cornyn,m,Republican
+State of the Union,7/3/11,John,McCain,m,Republican
+This Week,7/3/11,Mel,Martinez,m,Republican
+Face the Nation,7/10/11,Bill,Nelson,m,Democrat
+Fox News Sunday,7/10/11,Mitch,McConnell,m,Republican
+Fox News Sunday,7/10/11,Jim,DeMint,m,Republican
+State of the Union,7/10/11,Kevin,McCarthy,m,Republican
+Face the Nation,7/17/11,Richard,Durbin,m,Democrat
+Face the Nation,7/17/11,Marco,Rubio,m,Republican
+Fox News Sunday,7/17/11,Jim,Jordan,m,Republican
+Meet the Press,7/17/11,Richard,Durbin,m,Democrat
+Meet the Press,7/17/11,Jim,DeMint,m,Republican
+Meet the Press,7/17/11,John,Kasich,m,Republican
+State of the Union,7/17/11,Lindsey,Graham,m,Republican
+State of the Union,7/17/11,Thomas,Davis,m,Republican
+This Week,7/17/11,Jon,Kyl,m,Republican
+Face the Nation,7/24/11,Richard,Durbin,m,Democrat
+Face the Nation,7/24/11,Saxby,Chambliss,m,Republican
+Face the Nation,7/24/11,Jon,Kyl,m,Republican
+Face the Nation,7/24/11,Mark,Warner,m,Democrat
+Fox News Sunday,7/24/11,Donna,Edwards,f,Democrat
+Fox News Sunday,7/24/11,Joe,Walsh,m,Republican
+Meet the Press,7/24/11,Cory,Booker,m,Democrat
+Meet the Press,7/24/11,Adam,Kinzinger,m,Republican
+State of the Union,7/24/11,Dianne,Feinstein,f,Democrat
+This Week,7/24/11,Trent,Lott,m,Republican
+Face the Nation,7/31/11,Mitch,McConnell,m,Republican
+Face the Nation,7/31/11,Charles,Schumer,m,Democrat
+Fox News Sunday,7/31/11,Richard,Durbin,m,Democrat
+Fox News Sunday,7/31/11,Kevin,McCarthy,m,Republican
+Fox News Sunday,7/31/11,Jon,Kyl,m,Republican
+Meet the Press,7/31/11,John,Thune,m,Republican
+Meet the Press,7/31/11,Claire,McCaskill,f,Democrat
+State of the Union,7/31/11,Mitch,McConnell,m,Republican
+State of the Union,7/31/11,Charles,Schumer,m,Democrat
+State of the Union,7/31/11,Jason,Chaffetz,m,Republican
+This Week,7/31/11,Lindsey,Graham,m,Republican
+Face the Nation,8/7/11,Lindsey,Graham,m,Republican
+Fox News Sunday,8/7/11,Paul,Ryan,m,Republican
+Meet the Press,8/7/11,John,McCain,m,Republican
+Meet the Press,8/7/11,John,Kerry,m,Democrat
+State of the Union,8/7/11,Thomas,Davis,m,Republican
+This Week,8/7/11,Jason,Chaffetz,m,Republican
+Face the Nation,8/14/11,Michele,Bachmann,f,Republican
+Fox News Sunday,8/14/11,Michele,Bachmann,f,Republican
+Meet the Press,8/14/11,Michele,Bachmann,f,Republican
+State of the Union,8/14/11,Steve,King,m,Republican
+State of the Union,8/14/11,Michele,Bachmann,f,Republican
+This Week,8/14/11,Michele,Bachmann,f,Republican
+Face the Nation,8/21/11,John,McCain,m,Republican
+Fox News Sunday,8/21/11,Evan,Bayh,m,Democrat
+Meet the Press,8/21/11,Harold,Ford,m,Democrat
+Meet the Press,8/21/11,Harold,Ford,m,Democrat
+State of the Union,8/21/11,Elijah,Cummings,m,Democrat
+Face the Nation,9/4/11,Michele,Bachmann,f,Republican
+Meet the Press,9/4/11,Maxine,Waters,f,Democrat
+State of the Union,9/4/11,Jim,DeMint,m,Republican
+State of the Union,9/4/11,Joseph,Lieberman,m,Independent
+State of the Union,9/4/11,Mike,Rogers,m,Republican
+State of the Union,9/4/11,Mike,Rogers,m,Republican
+This Week,9/4/11,Jim,DeMint,m,Republican
+Fox News Sunday,9/11/11,John,McCain,m,Republican
+Fox News Sunday,9/11/11,Dianne,Feinstein,f,Democrat
+Fox News Sunday,9/11/11,Joseph,Lieberman,m,Independent
+Fox News Sunday,9/11/11,Mike,Rogers,m,Republican
+Fox News Sunday,9/11/11,Mike,Rogers,m,Republican
+Fox News Sunday,9/18/11,Paul,Ryan,m,Republican
+Fox News Sunday,9/18/11,Evan,Bayh,m,Democrat
+Meet the Press,9/18/11,Mitch,McConnell,m,Republican
+State of the Union,9/18/11,Richard,Durbin,m,Democrat
+State of the Union,9/18/11,Lindsey,Graham,m,Republican
+Fox News Sunday,9/25/11,Lindsey,Graham,m,Republican
+State of the Union,9/25/11,Lamar,Alexander,m,Republican
+State of the Union,9/25/11,Mark,Warner,m,Democrat
+Face the Nation,10/2/11,John,McCain,m,Republican
+Meet the Press,10/2/11,Xavier,Becerra,m,Democrat
+State of the Union,10/2/11,Jane,Harman,f,Democrat
+Fox News Sunday,10/9/11,Darrell,Issa,m,Republican
+Meet the Press,10/9/11,Aaron,Schock,m,Republican
+Meet the Press,10/9/11,Paul,Ryan,m,Republican
+Meet the Press,10/9/11,Rahm,Emanuel,m,Democrat
+State of the Union,10/9/11,Michele,Bachmann,f,Republican
+This Week,10/9/11,Nancy,Pelosi,f,Democrat
+Face the Nation,10/16/11,Darrell,Issa,m,Republican
+Face the Nation,10/16/11,Elijah,Cummings,m,Democrat
+Fox News Sunday,10/16/11,Eric,Cantor,m,Republican
+Fox News Sunday,10/16/11,Dianne,Feinstein,f,Democrat
+Meet the Press,10/16/11,Bobby,Jindal,m,Republican
+State of the Union,10/16/11,John,Lewis,m,Democrat
+State of the Union,10/16/11,John,McCain,m,Republican
+This Week,10/16/11,Mike,Rogers,m,Republican
+This Week,10/16/11,Mike,Rogers,m,Republican
+Face the Nation,10/23/11,Michele,Bachmann,f,Republican
+Fox News Sunday,10/23/11,Hillary,Clinton,f,Democrat
+Fox News Sunday,10/23/11,Lindsey,Graham,m,Republican
+Fox News Sunday,10/23/11,Michele,Bachmann,f,Republican
+Meet the Press,10/23/11,Hillary,Clinton,f,Democrat
+Meet the Press,10/23/11,Harold,Ford,m,Democrat
+Meet the Press,10/23/11,Harold,Ford,m,Democrat
+State of the Union,10/23/11,Mitch,McConnell,m,Republican
+State of the Union,10/23/11,Hillary,Clinton,f,Democrat
+State of the Union,10/23/11,Joseph,Biden,m,Democrat
+This Week,10/23/11,John,McCain,m,Republican
+This Week,10/23/11,Hillary,Clinton,f,Democrat
+State of the Union,10/30/11,Adam,Smith,m,Democrat
+This Week,10/30/11,Richard,Armey,m,Republican
+This Week,10/30/11,Michele,Bachmann,f,Republican
+Fox News Sunday,11/6/11,Heath,Shuler,m,Democrat
+Fox News Sunday,11/6/11,Evan,Bayh,m,Democrat
+State of the Union,11/6/11,Thomas,Davis,m,Republican
+State of the Union,11/6/11,Kay,Hutchison,f,Republican
+This Week,11/6/11,John,Boehner,m,Republican
+Face the Nation,11/13/11,Lindsey,Graham,m,Republican
+Fox News Sunday,11/13/11,James,Clyburn,m,Democrat
+Fox News Sunday,11/13/11,Patrick,Toomey,m,Republican
+Meet the Press,11/13/11,Michele,Bachmann,f,Republican
+State of the Union,11/13/11,Jeb,Hensarling,m,Republican
+State of the Union,11/13/11,Mark,Warner,m,Democrat
+Face the Nation,11/20/11,Patrick,Toomey,m,Republican
+Fox News Sunday,11/20/11,Xavier,Becerra,m,Democrat
+Fox News Sunday,11/20/11,Jeb,Hensarling,m,Republican
+Meet the Press,11/20/11,Jon,Kyl,m,Republican
+Meet the Press,11/20/11,John,Kerry,m,Democrat
+State of the Union,11/20/11,Patty,Murray,f,Democrat
+This Week,11/20/11,Rahm,Emanuel,m,Democrat
+This Week,11/20/11,Marco,Rubio,m,Republican
+Fox News Sunday,11/27/11,Richard,Durbin,m,Democrat
+Fox News Sunday,11/27/11,Jon,Kyl,m,Republican
+Meet the Press,11/27/11,Charles,Schumer,m,Democrat
+This Week,11/27/11,Patrick,Toomey,m,Republican
+Fox News Sunday,12/4/11,Kent,Conrad,m,Democrat
+Fox News Sunday,12/4/11,Michele,Bachmann,f,Republican
+Meet the Press,12/4/11,Harold,Ford,m,Democrat
+Meet the Press,12/4/11,Harold,Ford,m,Democrat
+State of the Union,12/4/11,John,McCain,m,Republican
+State of the Union,12/4/11,Michele,Bachmann,f,Republican
+This Week,12/4/11,Barney,Frank,m,Democrat
+Face the Nation,12/11/11,Barack,Obama,m,Democrat
+Face the Nation,12/11/11,Steve,King,m,Republican
+Face the Nation,12/11/11,Michele,Bachmann,f,Republican
+Fox News Sunday,12/11/11,Mitch,McConnell,m,Republican
+Meet the Press,12/11/11,Richard,Durbin,m,Democrat
+Meet the Press,12/11/11,Lindsey,Graham,m,Republican
+State of the Union,12/11/11,John,Sununu,m,Republican
+State of the Union,12/11/11,Thomas,Davis,m,Republican
+State of the Union,12/11/11,Robert,Walker,m,Republican
+Fox News Sunday,12/18/11,Evan,Bayh,m,Democrat
+Meet the Press,12/18/11,Michele,Bachmann,f,Republican
+Meet the Press,12/18/11,John,Boehner,m,Republican
+State of the Union,12/18/11,Roy,Blunt,m,Republican
+This Week,12/18/11,Paul,Ryan,m,Republican
+This Week,12/18/11,Barney,Frank,m,Democrat
+Face the Nation,12/25/11,David,Martin,m,Republican
+Face the Nation,1/1/12,Rand,Paul,m,Republican
+Fox News Sunday,1/1/12,Michele,Bachmann,f,Republican
+State of the Union,1/1/12,Steve,King,m,Republican
+Face the Nation,1/8/12,John,McCain,m,Republican
+Face the Nation,1/8/12,Leon,Panetta,m,Democrat
+State of the Union,1/8/12,Nancy,Pelosi,f,Democrat
+State of the Union,1/8/12,John,Sununu,m,Republican
+State of the Union,1/8/12,Robert,Walker,m,Republican
+Face the Nation,1/15/12,Jim,DeMint,m,Republican
+Fox News Sunday,1/15/12,Chris,Chocola,m,Republican
+Meet the Press,1/15/12,Harry,Reid,m,Democrat
+Meet the Press,1/15/12,Lindsey,Graham,m,Republican
+Meet the Press,1/15/12,Tim,Scott,m,Republican
+State of the Union,1/15/12,John,McCain,m,Republican
+Face the Nation,1/22/12,Lindsey,Graham,m,Republican
+Fox News Sunday,1/22/12,John,Boehner,m,Republican
+Meet the Press,1/22/12,Joe,Scarborough,m,Republican
+State of the Union,1/22/12,Jim,DeMint,m,Republican
+State of the Union,1/22/12,James,Clyburn,m,Democrat
+Face the Nation,1/29/12,Allen,West,m,Republican
+Face the Nation,1/29/12,Michele,Bachmann,f,Republican
+Fox News Sunday,1/29/12,Paul,Ryan,m,Republican
+Meet the Press,1/29/12,John,McCain,m,Republican
+Meet the Press,1/29/12,Joe,Scarborough,m,Republican
+Meet the Press,1/29/12,Fred,Thompson,m,Republican
+State of the Union,1/29/12,Mitch,McConnell,m,Republican
+This Week,1/29/12,John,Boehner,m,Republican
+Meet the Press,2/5/12,Xavier,Becerra,m,Democrat
+State of the Union,2/5/12,Mike,Rogers,m,Republican
+State of the Union,2/5/12,Mike,Rogers,m,Republican
+Face the Nation,2/12/12,Mitch,McConnell,m,Republican
+Fox News Sunday,2/12/12,Evan,Bayh,m,Democrat
+Meet the Press,2/12/12,Joe,Scarborough,m,Republican
+State of the Union,2/12/12,Joseph,Lieberman,m,Independent
+This Week,2/12/12,Paul,Ryan,m,Republican
+Fox News Sunday,2/19/12,Eric,Cantor,m,Republican
+Meet the Press,2/19/12,Paul,Ryan,m,Republican
+State of the Union,2/19/12,Michele,Bachmann,f,Republican
+This Week,2/19/12,John,McCain,m,Republican
+Fox News Sunday,2/26/12,Evan,Bayh,m,Democrat
+Meet the Press,2/26/12,Harold,Ford,m,Democrat
+Meet the Press,2/26/12,Harold,Ford,m,Democrat
+State of the Union,2/26/12,John,McCain,m,Republican
+State of the Union,2/26/12,Lindsey,Graham,m,Republican
+Fox News Sunday,3/4/12,Lindsey,Graham,m,Republican
+Fox News Sunday,3/4/12,Richard,Blumenthal,m,Democrat
+Meet the Press,3/4/12,Eric,Cantor,m,Republican
+State of the Union,3/4/12,Mike,Rogers,m,Republican
+State of the Union,3/4/12,Mike,Rogers,m,Republican
+Fox News Sunday,3/11/12,John,McCain,m,Republican
+Fox News Sunday,3/11/12,Evan,Bayh,m,Democrat
+Meet the Press,3/11/12,Marsha,Blackburn,f,Republican
+State of the Union,3/11/12,Harry,Reid,m,Democrat
+State of the Union,3/11/12,Richard,Gephardt,m,Democrat
+This Week,3/11/12,Charles,Schumer,m,Democrat
+This Week,3/11/12,Lindsey,Graham,m,Republican
+Meet the Press,3/18/12,John,McCain,m,Republican
+Face the Nation,3/25/12,Paul,Ryan,m,Republican
+Face the Nation,3/25/12,Charles,Schumer,m,Democrat
+Fox News Sunday,3/25/12,Paul,Ryan,m,Republican
+State of the Union,3/25/12,Lindsey,Graham,m,Republican
+This Week,3/25/12,Michele,Bachmann,f,Republican
+Face the Nation,4/1/12,Joseph,Biden,m,Democrat
+Meet the Press,4/1/12,Harold,Ford,m,Democrat
+Meet the Press,4/1/12,Harold,Ford,m,Democrat
+Meet the Press,4/1/12,Charles,Schumer,m,Democrat
+State of the Union,4/1/12,Paul,Ryan,m,Republican
+State of the Union,4/1/12,Mitch,McConnell,m,Republican
+State of the Union,4/1/12,Mike,Rogers,m,Republican
+State of the Union,4/1/12,Mike,Rogers,m,Republican
+This Week,4/1/12,Paul,Ryan,m,Republican
+Fox News Sunday,4/8/12,Kent,Conrad,m,Democrat
+Fox News Sunday,4/8/12,Ron,Johnson,m,Republican
+Meet the Press,4/8/12,Richard,Durbin,m,Democrat
+Meet the Press,4/8/12,John,Kasich,m,Republican
+Face the Nation,4/15/12,John,McCain,m,Republican
+Meet the Press,4/15/12,Harold,Ford,m,Democrat
+Meet the Press,4/15/12,Harold,Ford,m,Democrat
+Meet the Press,4/15/12,Kirsten,Gillibrand,f,Democrat
+Meet the Press,4/15/12,Michele,Bachmann,f,Republican
+State of the Union,4/15/12,Carolyn,Maloney,f,Democrat
+Face the Nation,4/22/12,Elijah,Cummings,m,Democrat
+Face the Nation,4/22/12,Joseph,Lieberman,m,Independent
+Fox News Sunday,4/22/12,Joseph,Lieberman,m,Independent
+Meet the Press,4/22/12,Darrell,Issa,m,Republican
+Meet the Press,4/22/12,Peter,King,m,Republican
+State of the Union,4/22/12,Elijah,Cummings,m,Democrat
+State of the Union,4/22/12,Marco,Rubio,m,Republican
+This Week,4/22/12,Susan,Collins,f,Republican
+Face the Nation,4/29/12,John,Miller,m,Republican
+State of the Union,4/29/12,John,Boehner,m,Republican
+Face the Nation,5/6/12,Charles,Schumer,m,Democrat
+Face the Nation,5/6/12,Michele,Bachmann,f,Republican
+Fox News Sunday,5/6/12,Marco,Rubio,m,Republican
+Meet the Press,5/6/12,Kelly,Ayotte,f,Republican
+Meet the Press,5/6/12,Joseph,Biden,m,Democrat
+State of the Union,5/6/12,Ted,Strickland,m,Democrat
+State of the Union,5/6/12,Dianne,Feinstein,f,Democrat
+State of the Union,5/6/12,Thomas,Davis,m,Republican
+State of the Union,5/6/12,Mike,Rogers,m,Republican
+State of the Union,5/6/12,Mike,Rogers,m,Republican
+This Week,5/6/12,John,McCain,m,Republican
+Face the Nation,5/13/12,Mike,Rogers,m,Republican
+Face the Nation,5/13/12,Mike,Rogers,m,Republican
+Fox News Sunday,5/13/12,John,Thune,m,Republican
+Fox News Sunday,5/13/12,Dianne,Feinstein,f,Democrat
+State of the Union,5/13/12,Richard,Durbin,m,Democrat
+State of the Union,5/13/12,Peter,King,m,Republican
+State of the Union,5/13/12,Joseph,Lieberman,m,Independent
+State of the Union,5/13/12,John,Cornyn,m,Republican
+This Week,5/13/12,Marsha,Blackburn,f,Republican
+This Week,5/13/12,Barney,Frank,m,Democrat
+Face the Nation,5/20/12,Mark,Warner,m,Democrat
+Face the Nation,5/20/12,Mitch,McConnell,m,Republican
+Face the Nation,5/20/12,Lindsey,Graham,m,Republican
+Fox News Sunday,5/20/12,Paul,Ryan,m,Republican
+Fox News Sunday,5/20/12,Evan,Bayh,m,Democrat
+Meet the Press,5/20/12,Cory,Booker,m,Democrat
+Meet the Press,5/20/12,Paul,Ryan,m,Republican
+Meet the Press,5/20/12,Richard,Durbin,m,Democrat
+State of the Union,5/20/12,Barbara,Boxer,f,Democrat
+State of the Union,5/20/12,Kay,Hutchison,f,Republican
+This Week,5/20/12,Nancy,Pelosi,f,Democrat
+This Week,5/20/12,John,Boehner,m,Republican
+Fox News Sunday,5/27/12,John,McCain,m,Republican
+State of the Union,5/27/12,Patty,Murray,f,Democrat
+This Week,5/27/12,Leon,Panetta,m,Democrat
+Face the Nation,6/3/12,Kay,Hutchison,f,Republican
+Meet the Press,6/3/12,John,Kasich,m,Republican
+State of the Union,6/3/12,Mark,Warner,m,Democrat
+Face the Nation,6/10/12,Dianne,Feinstein,f,Democrat
+Face the Nation,6/10/12,Mike,Rogers,m,Republican
+Face the Nation,6/10/12,Mike,Rogers,m,Republican
+State of the Union,6/10/12,John,McCain,m,Republican
+State of the Union,6/10/12,Peter,King,m,Republican
+State of the Union,6/10/12,Lynn,Woolsey,f,Democrat
+Face the Nation,6/17/12,Lindsey,Graham,m,Republican
+Fox News Sunday,6/17/12,Joseph,Lieberman,m,Independent
+Meet the Press,6/17/12,John,McCain,m,Republican
+Meet the Press,6/17/12,Harold,Ford,m,Democrat
+Meet the Press,6/17/12,Harold,Ford,m,Democrat
+State of the Union,6/17/12,John,Barrasso,m,Republican
+Fox News Sunday,6/24/12,Elijah,Cummings,m,Democrat
+Fox News Sunday,6/24/12,Darrell,Issa,m,Republican
+Meet the Press,6/24/12,Darrell,Issa,m,Republican
+Meet the Press,6/24/12,Marco,Rubio,m,Republican
+This Week,6/24/12,Darrell,Issa,m,Republican
+This Week,6/24/12,Xavier,Becerra,m,Democrat
+Face the Nation,7/1/12,Charles,Schumer,m,Democrat
+Face the Nation,7/1/12,John,Boehner,m,Republican
+Fox News Sunday,7/1/12,Mitch,McConnell,m,Republican
+Meet the Press,7/1/12,Nancy,Pelosi,f,Democrat
+Meet the Press,7/1/12,Bobby,Jindal,m,Republican
+This Week,7/1/12,Paul,Ryan,m,Republican
+This Week,7/1/12,Artur,Davis,m,Democrat
+Face the Nation,7/8/12,Richard,Durbin,m,Democrat
+Face the Nation,7/8/12,John,McCain,m,Republican
+Fox News Sunday,7/8/12,Tom,Price,m,Republican
+Fox News Sunday,7/8/12,Xavier,Becerra,m,Democrat
+State of the Union,7/8/12,Mitch,McConnell,m,Republican
+This Week,7/8/12,Bobby,Jindal,m,Republican
+Face the Nation,7/15/12,Paul,Ryan,m,Republican
+Meet the Press,7/15/12,Richard,Durbin,m,Democrat
+Meet the Press,7/15/12,Jon,Kyl,m,Republican
+This Week,7/15/12,Kelly,Ayotte,f,Republican
+This Week,7/15/12,Rahm,Emanuel,m,Democrat
+Fox News Sunday,7/22/12,Dianne,Feinstein,f,Democrat
+Fox News Sunday,7/22/12,Evan,Bayh,m,Democrat
+Fox News Sunday,7/22/12,Mike,Rogers,m,Republican
+Fox News Sunday,7/22/12,Mike,Rogers,m,Republican
+State of the Union,7/22/12,John,McCain,m,Republican
+State of the Union,7/22/12,George,Allen,m,Republican
+State of the Union,7/29/12,Kelly,Ayotte,f,Republican
+State of the Union,7/29/12,Richard,Durbin,m,Democrat
+Face the Nation,8/5/12,Ted,Strickland,m,Democrat
+Fox News Sunday,8/5/12,Ted,Cruz,m,Republican
+State of the Union,8/5/12,Lindsey,Graham,m,Republican
+Fox News Sunday,8/12/12,John,McCain,m,Republican
+Fox News Sunday,8/12/12,Evan,Bayh,m,Democrat
+State of the Union,8/12/12,John,Thune,m,Republican
+State of the Union,8/12/12,John,Sununu,m,Republican
+State of the Union,8/12/12,Ron,Johnson,m,Republican
+State of the Union,8/12/12,Ron,Kind,m,Democrat
+Face the Nation,8/19/12,Richard,Durbin,m,Democrat
+Fox News Sunday,8/19/12,Evan,Bayh,m,Democrat
+Meet the Press,8/19/12,Ted,Cruz,m,Republican
+This Week,8/19/12,Patrick,Toomey,m,Republican
+Face the Nation,8/26/12,Marsha,Blackburn,f,Republican
+Face the Nation,8/26/12,Marco,Rubio,m,Republican
+Meet the Press,8/26/12,John,McCain,m,Republican
+State of the Union,8/26/12,Kay,Hutchison,f,Republican
+This Week,8/26/12,Donna,Edwards,f,Democrat
+Meet the Press,9/2/12,Rahm,Emanuel,m,Democrat
+Face the Nation,9/9/12,Paul,Ryan,m,Republican
+Face the Nation,9/9/12,Barack,Obama,m,Democrat
+Fox News Sunday,9/9/12,Mia,Love,f,Republican
+This Week,9/9/12,Cory,Booker,m,Democrat
+This Week,9/9/12,Paul,Ryan,m,Republican
+This Week,9/9/12,Rand,Paul,m,Republican
+Face the Nation,9/16/12,John,McCain,m,Republican
+Fox News Sunday,9/16/12,Mike,Rogers,m,Republican
+Fox News Sunday,9/16/12,Mike,Rogers,m,Republican
+Meet the Press,9/16/12,Peter,King,m,Republican
+Meet the Press,9/16/12,Keith,Ellison,m,Democrat
+State of the Union,9/16/12,Nancy,Pelosi,f,Democrat
+Meet the Press,9/23/12,Kelly,Ayotte,f,Republican
+Meet the Press,9/23/12,Joe,Scarborough,m,Republican
+State of the Union,9/23/12,Richard,Durbin,m,Democrat
+State of the Union,9/23/12,Lindsey,Graham,m,Republican
+State of the Union,9/23/12,Mike,Rogers,m,Republican
+State of the Union,9/23/12,Mike,Rogers,m,Republican
+Face the Nation,9/30/12,Marsha,Blackburn,f,Republican
+Fox News Sunday,9/30/12,Paul,Ryan,m,Republican
+State of the Union,9/30/12,Roy,Blunt,m,Republican
+State of the Union,9/30/12,John,McCain,m,Republican
+Fox News Sunday,10/7/12,Kelly,Ayotte,f,Republican
+State of the Union,10/7/12,Michael,DeWine,m,Republican
+State of the Union,10/7/12,Ted,Strickland,m,Democrat
+Face the Nation,10/14/12,Elijah,Cummings,m,Democrat
+Face the Nation,10/14/12,Darrell,Issa,m,Republican
+Face the Nation,10/14/12,Lindsey,Graham,m,Republican
+This Week,10/14/12,Christopher,Dodd,m,Democrat
+Face the Nation,10/21/12,Marco,Rubio,m,Republican
+Fox News Sunday,10/21/12,Richard,Durbin,m,Democrat
+Fox News Sunday,10/21/12,Lindsey,Graham,m,Republican
+Meet the Press,10/21/12,Marco,Rubio,m,Republican
+State of the Union,10/21/12,Mark,Warner,m,Democrat
+State of the Union,10/21/12,Thomas,Davis,m,Republican
+State of the Union,10/21/12,Donna,Edwards,f,Democrat
+This Week,10/21/12,Rahm,Emanuel,m,Democrat
+This Week,10/21/12,Marco,Rubio,m,Republican
+Face the Nation,10/28/12,John,McCain,m,Republican
+Face the Nation,10/28/12,Rahm,Emanuel,m,Democrat
+Fox News Sunday,10/28/12,Mark,Warner,m,Democrat
+Fox News Sunday,10/28/12,Ron,Johnson,m,Republican
+Fox News Sunday,10/28/12,Mark,Udall,m,Democrat
+Meet the Press,10/28/12,John,Kasich,m,Republican
+State of the Union,10/28/12,Ted,Strickland,m,Democrat
+Meet the Press,11/4/12,Cory,Booker,m,Democrat
+Meet the Press,11/4/12,Eric,Cantor,m,Republican
+Meet the Press,11/4/12,Joe,Scarborough,m,Republican
+State of the Union,11/4/12,Rahm,Emanuel,m,Democrat
+Face the Nation,11/11/12,Lindsey,Graham,m,Republican
+Fox News Sunday,11/11/12,Tom,Price,m,Republican
+Fox News Sunday,11/11/12,Kent,Conrad,m,Democrat
+Fox News Sunday,11/11/12,Evan,Bayh,m,Democrat
+Fox News Sunday,11/11/12,Dianne,Feinstein,f,Democrat
+Fox News Sunday,11/11/12,Bob,Corker,m,Republican
+Meet the Press,11/11/12,Joaquin,Castro,m,Democrat
+Meet the Press,11/11/12,Charles,Schumer,m,Democrat
+This Week,11/11/12,Aaron,Schock,m,Republican
+This Week,11/11/12,Patty,Murray,f,Democrat
+This Week,11/11/12,Saxby,Chambliss,m,Republican
+This Week,11/11/12,Donna,Edwards,f,Democrat
+Face the Nation,11/18/12,Richard,Durbin,m,Democrat
+Face the Nation,11/18/12,John,McCain,m,Republican
+Face the Nation,11/18/12,Olympia,Snowe,f,Republican
+Fox News Sunday,11/18/12,Saxby,Chambliss,m,Republican
+Fox News Sunday,11/18/12,Joseph,Lieberman,m,Independent
+Fox News Sunday,11/18/12,Bobby,Jindal,m,Republican
+Meet the Press,11/18/12,Dianne,Feinstein,f,Democrat
+Meet the Press,11/18/12,Lindsey,Graham,m,Republican
+Meet the Press,11/18/12,Mike,Rogers,m,Republican
+Meet the Press,11/18/12,Mike,Rogers,m,Republican
+State of the Union,11/18/12,Roy,Blunt,m,Republican
+State of the Union,11/18/12,Tom,Price,m,Republican
+State of the Union,11/18/12,Richard,Durbin,m,Democrat
+This Week,11/18/12,Xavier,Becerra,m,Democrat
+This Week,11/18/12,Peter,King,m,Republican
+This Week,11/18/12,Nancy,Pelosi,f,Democrat
+Fox News Sunday,11/25/12,John,McCain,m,Republican
+Fox News Sunday,11/25/12,John,Sweeney,m,Republican
+Meet the Press,11/25/12,Peter,King,m,Republican
+Meet the Press,11/25/12,Gregory,Meeks,m,Democrat
+State of the Union,11/25/12,Barney,Frank,m,Democrat
+State of the Union,11/25/12,Jon,Kyl,m,Republican
+State of the Union,11/25/12,Joseph,Lieberman,m,Independent
+State of the Union,11/25/12,Kay,Hutchison,f,Republican
+This Week,11/25/12,Adam,Smith,m,Democrat
+This Week,11/25/12,Richard,Durbin,m,Democrat
+This Week,11/25/12,Lindsey,Graham,m,Republican
+Face the Nation,12/2/12,Dianne,Feinstein,f,Democrat
+Face the Nation,12/2/12,Lindsey,Graham,m,Republican
+Face the Nation,12/2/12,Mike,Rogers,m,Republican
+Face the Nation,12/2/12,Mike,Rogers,m,Republican
+Fox News Sunday,12/2/12,Evan,Bayh,m,Democrat
+Fox News Sunday,12/2/12,John,Boehner,m,Republican
+Meet the Press,12/2/12,Bob,Corker,m,Republican
+Meet the Press,12/2/12,Claire,McCaskill,f,Democrat
+State of the Union,12/2/12,Mark,Warner,m,Democrat
+State of the Union,12/2/12,Kelly,Ayotte,f,Republican
+This Week,12/2/12,Tom,Cole,m,Republican
+This Week,12/2/12,Keith,Ellison,m,Democrat
+Face the Nation,12/9/12,Cory,Booker,m,Democrat
+Fox News Sunday,12/9/12,Charles,Schumer,m,Democrat
+Fox News Sunday,12/9/12,Bob,Corker,m,Republican
+Meet the Press,12/9/12,Richard,Durbin,m,Democrat
+Meet the Press,12/9/12,Kevin,McCarthy,m,Republican
+State of the Union,12/9/12,Tom,Cole,m,Republican
+State of the Union,12/9/12,Marsha,Blackburn,f,Republican
+This Week,12/9/12,Debbie,Stabenow,f,Democrat
+This Week,12/9/12,Jeb,Hensarling,m,Republican
+Face the Nation,12/16/12,Charles,Schumer,m,Democrat
+Face the Nation,12/16/12,Kay,Hutchison,f,Republican
+This Week,12/16/12,John,McCain,m,Republican
+This Week,12/16/12,Steve,Israel,m,Democrat
+This Week,12/16/12,Jason,Chaffetz,m,Republican
+Face the Nation,12/23/12,Mark,Warner,m,Democrat
+Face the Nation,12/23/12,Kay,Hutchison,f,Republican
+Face the Nation,12/23/12,Tim,Scott,m,Republican
+Fox News Sunday,12/23/12,Kent,Conrad,m,Democrat
+Fox News Sunday,12/23/12,John,Barrasso,m,Republican
+Meet the Press,12/23/12,Charles,Schumer,m,Democrat
+Meet the Press,12/23/12,Lindsey,Graham,m,Republican
+Meet the Press,12/23/12,Jason,Chaffetz,m,Republican
+Meet the Press,12/23/12,Harold,Ford,m,Democrat
+Meet the Press,12/23/12,Harold,Ford,m,Democrat
+State of the Union,12/23/12,Asa,Hutchinson,m,Republican
+State of the Union,12/23/12,Steven,LaTourette,m,Republican
+State of the Union,12/23/12,Mick,Mulvaney,m,Republican
+State of the Union,12/23/12,Joseph,Lieberman,m,Independent
+This Week,12/23/12,Cory,Booker,m,Democrat
+This Week,12/23/12,Amy,Klobuchar,f,Democrat
+This Week,12/23/12,Asa,Hutchinson,m,Republican
+Face the Nation,12/30/12,Richard,Durbin,m,Democrat
+Fox News Sunday,12/30/12,Evan,Bayh,m,Democrat
+Fox News Sunday,12/30/12,Dianne,Feinstein,f,Democrat
+Fox News Sunday,12/30/12,Lindsey,Graham,m,Republican
+Meet the Press,12/30/12,Barack,Obama,m,Democrat
+State of the Union,12/30/12,Darrell,Issa,m,Republican
+State of the Union,12/30/12,Debbie,Stabenow,f,Democrat
+State of the Union,12/30/12,John,Barrasso,m,Republican
+State of the Union,12/30/12,Donna,Edwards,f,Democrat
+This Week,12/30/12,Charles,Schumer,m,Democrat
+This Week,12/30/12,Jon,Kyl,m,Republican
+Face the Nation,1/6/13,Matt,Salmon,m,Republican
+Face the Nation,1/6/13,Mitch,McConnell,m,Republican
+Face the Nation,1/6/13,Nancy,Pelosi,f,Democrat
+Face the Nation,1/6/13,Mike,Kelly,m,Republican
+Face the Nation,1/6/13,Christopher,Murphy,m,Democrat
+Face the Nation,1/6/13,Jeff,Flake,m,Republican
+Fox News Sunday,1/6/13,Jim,Jordan,m,Republican
+Fox News Sunday,1/6/13,Ted,Cruz,m,Republican
+Meet the Press,1/6/13,Angus,King,m,Independent
+Meet the Press,1/6/13,Xavier,Becerra,m,Democrat
+Meet the Press,1/6/13,Mitch,McConnell,m,Republican
+State of the Union,1/6/13,Heidi,Heitkamp,f,Democrat
+State of the Union,1/6/13,Richard,Durbin,m,Democrat
+State of the Union,1/6/13,Lindsey,Graham,m,Republican
+State of the Union,1/6/13,Richard,Hudson,m,Republican
+This Week,1/6/13,Heidi,Heitkamp,f,Democrat
+This Week,1/6/13,Mitch,McConnell,m,Republican
+This Week,1/6/13,Joaquin,Castro,m,Democrat
+This Week,1/6/13,Tom,Cotton,m,Republican
+Face the Nation,1/13/13,John,McCain,m,Republican
+Fox News Sunday,1/13/13,Kelly,Ayotte,f,Republican
+Fox News Sunday,1/13/13,Evan,Bayh,m,Democrat
+Fox News Sunday,1/13/13,Richard,Blumenthal,m,Democrat
+Meet the Press,1/13/13,Cory,Booker,m,Democrat
+State of the Union,1/13/13,Marsha,Blackburn,f,Republican
+State of the Union,1/13/13,Elijah,Cummings,m,Democrat
+State of the Union,1/13/13,Christopher,Murphy,m,Democrat
+This Week,1/13/13,Bob,Corker,m,Republican
+Face the Nation,1/20/13,Joaquin,Castro,m,Democrat
+Fox News Sunday,1/20/13,Roy,Blunt,m,Republican
+Meet the Press,1/20/13,Ted,Cruz,m,Republican
+Meet the Press,1/20/13,Charles,Schumer,m,Democrat
+Meet the Press,1/20/13,Joe,Scarborough,m,Republican
+State of the Union,1/20/13,John,Barrasso,m,Republican
+Face the Nation,1/27/13,Marsha,Blackburn,f,Republican
+Face the Nation,1/27/13,Dianne,Feinstein,f,Democrat
+Fox News Sunday,1/27/13,Martha,McSally,f,Republican
+Fox News Sunday,1/27/13,Richard,Durbin,m,Democrat
+Fox News Sunday,1/27/13,Bob,Corker,m,Republican
+Meet the Press,1/27/13,Paul,Ryan,m,Republican
+Meet the Press,1/27/13,Jim,DeMint,m,Republican
+State of the Union,1/27/13,Mia,Love,f,Republican
+State of the Union,1/27/13,Dianne,Feinstein,f,Democrat
+This Week,1/27/13,David,Schweikert,m,Republican
+This Week,1/27/13,John,McCain,m,Republican
+Fox News Sunday,2/3/13,Evan,Bayh,m,Democrat
+Meet the Press,2/3/13,Leon,Panetta,m,Democrat
+State of the Union,2/3/13,Leon,Panetta,m,Democrat
+State of the Union,2/3/13,George,Allen,m,Republican
+This Week,2/3/13,Harry,Reid,m,Democrat
+This Week,2/3/13,Lou,Barletta,m,Republican
+Face the Nation,2/10/13,Lindsey,Graham,m,Republican
+Face the Nation,2/10/13,Jane,Harman,f,Democrat
+Face the Nation,2/10/13,Mike,Rogers,m,Republican
+Face the Nation,2/10/13,Mike,Rogers,m,Republican
+Fox News Sunday,2/10/13,John,McCain,m,Republican
+Fox News Sunday,2/10/13,Nancy,Pelosi,f,Democrat
+Fox News Sunday,2/10/13,Tom,Cotton,m,Republican
+Meet the Press,2/10/13,Richard,Durbin,m,Democrat
+Meet the Press,2/10/13,Eric,Cantor,m,Republican
+State of the Union,2/10/13,Angus,King,m,Independent
+State of the Union,2/10/13,Rand,Paul,m,Republican
+State of the Union,2/10/13,Kay,Hutchison,f,Republican
+This Week,2/10/13,Tom,Cole,m,Republican
+This Week,2/10/13,Keith,Ellison,m,Democrat
+Face the Nation,2/17/13,Cory,Booker,m,Democrat
+Fox News Sunday,2/17/13,Rand,Paul,m,Republican
+Fox News Sunday,2/17/13,Lindsey,Graham,m,Republican
+Meet the Press,2/17/13,John,McCain,m,Republican
+State of the Union,2/17/13,Charles,Schumer,m,Democrat
+State of the Union,2/17/13,Steven,LaTourette,m,Republican
+State of the Union,2/17/13,John,Barrasso,m,Republican
+State of the Union,2/17/13,Mike,Rogers,m,Republican
+State of the Union,2/17/13,Mike,Rogers,m,Republican
+This Week,2/17/13,Paul,Ryan,m,Republican
+This Week,2/17/13,Joaquin,Castro,m,Democrat
+Face the Nation,2/24/13,Kelly,Ayotte,f,Republican
+Face the Nation,2/24/13,Tim,Murphy,m,Republican
+Fox News Sunday,2/24/13,Evan,Bayh,m,Democrat
+Fox News Sunday,2/24/13,Claire,McCaskill,f,Democrat
+Meet the Press,2/24/13,Bobby,Jindal,m,Republican
+Meet the Press,2/24/13,Harold,Ford,m,Democrat
+Meet the Press,2/24/13,Harold,Ford,m,Democrat
+State of the Union,2/24/13,John,McCain,m,Republican
+State of the Union,2/24/13,Patrick,Leahy,m,Democrat
+This Week,2/24/13,Eliot,Engel,m,Democrat
+This Week,2/24/13,Mike,Rogers,m,Republican
+This Week,2/24/13,Mike,Rogers,m,Republican
+Face the Nation,3/3/13,Richard,Durbin,m,Democrat
+Face the Nation,3/3/13,John,McCain,m,Republican
+Face the Nation,3/3/13,Lindsey,Graham,m,Republican
+Fox News Sunday,3/3/13,Scott,Brown,m,Republican
+Meet the Press,3/3/13,John,Boehner,m,Republican
+State of the Union,3/3/13,Mitch,McConnell,m,Republican
+State of the Union,3/3/13,Steve,Israel,m,Democrat
+State of the Union,3/3/13,Greg,Walden,m,Republican
+This Week,3/3/13,Kelly,Ayotte,f,Republican
+This Week,3/3/13,Mia,Love,f,Republican
+Fox News Sunday,3/10/13,Paul,Ryan,m,Republican
+Meet the Press,3/10/13,Cory,Gardner,m,Republican
+Meet the Press,3/10/13,Marsha,Blackburn,f,Republican
+Meet the Press,3/10/13,Tulsi,Gabbard,f,Democrat
+Meet the Press,3/10/13,Joe,Scarborough,m,Republican
+State of the Union,3/10/13,Kevin,McCarthy,m,Republican
+State of the Union,3/10/13,Nancy,Pelosi,f,Democrat
+This Week,3/10/13,Ron,Johnson,m,Republican
+Face the Nation,3/17/13,Paul,Ryan,m,Republican
+Face the Nation,3/17/13,Amy,Klobuchar,f,Democrat
+Fox News Sunday,3/17/13,Richard,Durbin,m,Democrat
+Fox News Sunday,3/17/13,Bob,Corker,m,Republican
+Meet the Press,3/17/13,Kevin,McCarthy,m,Republican
+State of the Union,3/17/13,Tulsi,Gabbard,f,Democrat
+State of the Union,3/17/13,Tom,Cotton,m,Republican
+State of the Union,3/17/13,Mike,Rogers,m,Republican
+State of the Union,3/17/13,Mike,Rogers,m,Republican
+This Week,3/17/13,Xavier,Becerra,m,Democrat
+This Week,3/17/13,John,Boehner,m,Republican
+Face the Nation,3/24/13,Mike,Rogers,m,Republican
+Face the Nation,3/24/13,Mike,Rogers,m,Republican
+Fox News Sunday,3/24/13,Rand,Paul,m,Republican
+State of the Union,3/24/13,Kamala,Harris,f,Democrat
+Meet the Press,3/31/13,Charles,Schumer,m,Democrat
+Meet the Press,3/31/13,Thomas,Davis,m,Republican
+Meet the Press,3/31/13,Jeff,Flake,m,Republican
+State of the Union,3/31/13,Lindsey,Graham,m,Republican
+State of the Union,3/31/13,Richard,Blumenthal,m,Democrat
+This Week,3/31/13,Cory,Booker,m,Democrat
+This Week,3/31/13,Peter,King,m,Republican
+Face the Nation,4/7/13,John,McCain,m,Republican
+Face the Nation,4/7/13,Charles,Schumer,m,Democrat
+Fox News Sunday,4/7/13,Asa,Hutchinson,m,Republican
+Meet the Press,4/7/13,Lindsey,Graham,m,Republican
+This Week,4/7/13,David,Stockman,m,Republican
+Face the Nation,4/14/13,Marco,Rubio,m,Republican
+Face the Nation,4/14/13,Patrick,Toomey,m,Republican
+Fox News Sunday,4/14/13,Richard,Durbin,m,Democrat
+Fox News Sunday,4/14/13,Scott,Brown,m,Republican
+Fox News Sunday,4/14/13,Evan,Bayh,m,Democrat
+Fox News Sunday,4/14/13,John,Cornyn,m,Republican
+Fox News Sunday,4/14/13,Marco,Rubio,m,Republican
+Meet the Press,4/14/13,Kirsten,Gillibrand,f,Democrat
+Meet the Press,4/14/13,Mike,Lee,m,Republican
+Meet the Press,4/14/13,Marco,Rubio,m,Republican
+State of the Union,4/14/13,John,McCain,m,Republican
+State of the Union,4/14/13,Marco,Rubio,m,Republican
+State of the Union,4/14/13,Patrick,Toomey,m,Republican
+This Week,4/14/13,Charles,Schumer,m,Democrat
+This Week,4/14/13,Marco,Rubio,m,Republican
+Face the Nation,4/21/13,Michael,McCaul,m,Republican
+Face the Nation,4/21/13,Thomas,Ridge,m,Republican
+Fox News Sunday,4/21/13,Peter,King,m,Republican
+Fox News Sunday,4/21/13,Dianne,Feinstein,f,Democrat
+Fox News Sunday,4/21/13,Jane,Harman,f,Democrat
+Meet the Press,4/21/13,Richard,Durbin,m,Democrat
+Meet the Press,4/21/13,Mike,Rogers,m,Republican
+Meet the Press,4/21/13,Mike,Rogers,m,Republican
+State of the Union,4/21/13,William,Cowan,m,Democrat
+State of the Union,4/21/13,Charles,Schumer,m,Democrat
+State of the Union,4/21/13,Michael,McCaul,m,Republican
+State of the Union,4/21/13,Lindsey,Graham,m,Republican
+This Week,4/21/13,Daniel,Coats,m,Republican
+This Week,4/21/13,Bennie,Thompson,m,Democrat
+Face the Nation,4/28/13,Saxby,Chambliss,m,Republican
+Face the Nation,4/28/13,John,Miller,m,Republican
+Face the Nation,4/28/13,Lindsey,Graham,m,Republican
+Face the Nation,4/28/13,Claire,McCaskill,f,Democrat
+Fox News Sunday,4/28/13,Michael,McCaul,m,Republican
+Meet the Press,4/28/13,Amy,Klobuchar,f,Democrat
+Meet the Press,4/28/13,John,McCain,m,Republican
+Meet the Press,4/28/13,Joaquin,Castro,m,Democrat
+Meet the Press,4/28/13,Peter,King,m,Republican
+Meet the Press,4/28/13,Keith,Ellison,m,Democrat
+State of the Union,4/28/13,Adam,Schiff,m,Democrat
+State of the Union,4/28/13,Daniel,Coats,m,Republican
+State of the Union,4/28/13,Marsha,Blackburn,f,Republican
+State of the Union,4/28/13,Bennie,Thompson,m,Democrat
+State of the Union,4/28/13,Jason,Chaffetz,m,Republican
+This Week,4/28/13,Mike,Rogers,m,Republican
+This Week,4/28/13,Mike,Rogers,m,Republican
+Face the Nation,5/5/13,Darrell,Issa,m,Republican
+Face the Nation,5/5/13,Mike,Rogers,m,Republican
+Face the Nation,5/5/13,Mike,Rogers,m,Republican
+Fox News Sunday,5/5/13,John,McCain,m,Republican
+Fox News Sunday,5/5/13,Stephen,Lynch,m,Democrat
+Fox News Sunday,5/5/13,Evan,Bayh,m,Democrat
+Fox News Sunday,5/5/13,Jason,Chaffetz,m,Republican
+Meet the Press,5/5/13,Tom,Cotton,m,Republican
+Meet the Press,5/5/13,Jane,Harman,f,Democrat
+Meet the Press,5/5/13,Patrick,Leahy,m,Democrat
+Meet the Press,5/5/13,Harold,Ford,m,Democrat
+Meet the Press,5/5/13,Harold,Ford,m,Democrat
+State of the Union,5/5/13,Richard,Durbin,m,Democrat
+State of the Union,5/5/13,Peter,King,m,Republican
+This Week,5/5/13,Jim,DeMint,m,Republican
+Face the Nation,5/12/13,Kelly,Ayotte,f,Republican
+Face the Nation,5/12/13,Richard,Durbin,m,Democrat
+Fox News Sunday,5/12/13,Adam,Smith,m,Democrat
+Fox News Sunday,5/12/13,Dennis,Kucinich,m,Democrat
+Fox News Sunday,5/12/13,Mike,Rogers,m,Republican
+Fox News Sunday,5/12/13,Mike,Rogers,m,Republican
+Meet the Press,5/12/13,Adam,Kinzinger,m,Republican
+Meet the Press,5/12/13,Darrell,Issa,m,Republican
+Meet the Press,5/12/13,Dianne,Feinstein,f,Democrat
+State of the Union,5/12/13,Tulsi,Gabbard,f,Democrat
+State of the Union,5/12/13,Tammy,Duckworth,f,Democrat
+State of the Union,5/12/13,Susan,Collins,f,Republican
+This Week,5/12/13,John,McCain,m,Republican
+This Week,5/12/13,Kirsten,Gillibrand,f,Democrat
+This Week,5/12/13,Olympia,Snowe,f,Republican
+Face the Nation,5/19/13,Jason,Chaffetz,m,Republican
+Face the Nation,5/19/13,John,Cornyn,m,Republican
+Fox News Sunday,5/19/13,Paul,Ryan,m,Republican
+Fox News Sunday,5/19/13,Dennis,Kucinich,m,Democrat
+Meet the Press,5/19/13,Dave,Camp,m,Republican
+Meet the Press,5/19/13,Xavier,Becerra,m,Democrat
+Meet the Press,5/19/13,Mitch,McConnell,m,Republican
+State of the Union,5/19/13,Rand,Paul,m,Republican
+This Week,5/19/13,Tom,Price,m,Republican
+Face the Nation,5/26/13,Mary,Fallin,f,Republican
+Face the Nation,5/26/13,Charles,Schumer,m,Democrat
+Fox News Sunday,5/26/13,Richard,Durbin,m,Democrat
+Fox News Sunday,5/26/13,Lindsey,Graham,m,Republican
+State of the Union,5/26/13,Mary,Fallin,f,Republican
+State of the Union,5/26/13,Michael,McCaul,m,Republican
+State of the Union,5/26/13,Michael,Grimm,m,Republican
+This Week,5/26/13,Peter,King,m,Republican
+This Week,5/26/13,Rand,Paul,m,Republican
+Face the Nation,6/2/13,Mary,Fallin,f,Republican
+Face the Nation,6/2/13,John,McCain,m,Republican
+Fox News Sunday,6/2/13,Evan,Bayh,m,Democrat
+Meet the Press,6/2/13,Marsha,Blackburn,f,Republican
+Meet the Press,6/2/13,Charles,Schumer,m,Democrat
+Meet the Press,6/2/13,Mike,Rogers,m,Republican
+Meet the Press,6/2/13,Mike,Rogers,m,Republican
+State of the Union,6/2/13,Darrell,Issa,m,Republican
+State of the Union,6/2/13,Debbie,Stabenow,f,Democrat
+Face the Nation,6/9/13,Kelly,Ayotte,f,Republican
+Face the Nation,6/9/13,Elijah,Cummings,m,Democrat
+Face the Nation,6/9/13,Kirsten,Gillibrand,f,Democrat
+Face the Nation,6/9/13,Michael,McCaul,m,Republican
+Face the Nation,6/9/13,Jackie,Speier,f,Democrat
+Fox News Sunday,6/9/13,Rand,Paul,m,Republican
+Fox News Sunday,6/9/13,Ron,Johnson,m,Republican
+State of the Union,6/9/13,Elijah,Cummings,m,Democrat
+State of the Union,6/9/13,John,McCain,m,Republican
+State of the Union,6/9/13,Thomas,Davis,m,Republican
+State of the Union,6/9/13,Robert,Wexler,m,Democrat
+State of the Union,6/9/13,Mark,Udall,m,Democrat
+This Week,6/9/13,Dianne,Feinstein,f,Democrat
+This Week,6/9/13,Mike,Rogers,m,Republican
+This Week,6/9/13,Mike,Rogers,m,Republican
+This Week,6/9/13,Mark,Udall,m,Democrat
+This Week,6/9/13,Keith,Ellison,m,Democrat
+Face the Nation,6/16/13,Mike,Rogers,m,Republican
+Face the Nation,6/16/13,Mike,Rogers,m,Republican
+Fox News Sunday,6/16/13,Jane,Harman,f,Democrat
+Meet the Press,6/16/13,Saxby,Chambliss,m,Republican
+Meet the Press,6/16/13,Robert,Scott,m,Democrat
+Meet the Press,6/16/13,Mark,Udall,m,Democrat
+State of the Union,6/16/13,Mike,Rogers,m,Republican
+State of the Union,6/16/13,Mike,Rogers,m,Republican
+This Week,6/16/13,Marco,Rubio,m,Republican
+Face the Nation,6/23/13,Dianne,Feinstein,f,Democrat
+Face the Nation,6/23/13,Bob,Corker,m,Republican
+Meet the Press,6/23/13,Richard,Durbin,m,Democrat
+Meet the Press,6/23/13,Loretta,Sanchez,f,Democrat
+Meet the Press,6/23/13,Mike,Rogers,m,Republican
+Meet the Press,6/23/13,Mike,Rogers,m,Republican
+State of the Union,6/23/13,Charles,Schumer,m,Democrat
+State of the Union,6/23/13,Rand,Paul,m,Republican
+This Week,6/23/13,Tulsi,Gabbard,f,Democrat
+This Week,6/23/13,Joaquin,Castro,m,Democrat
+This Week,6/23/13,Mike,Kelly,m,Republican
+Fox News Sunday,6/30/13,Trey,Gowdy,m,Republican
+Fox News Sunday,6/30/13,John,McCain,m,Republican
+Fox News Sunday,6/30/13,Charles,Schumer,m,Democrat
+Meet the Press,6/30/13,Jim,DeMint,m,Republican
+Meet the Press,6/30/13,Nancy,Pelosi,f,Democrat
+Meet the Press,6/30/13,Tim,Huelskamp,m,Republican
+State of the Union,6/30/13,George,Allen,m,Republican
+This Week,6/30/13,Donna,Edwards,f,Democrat
+Face the Nation,7/7/13,Xavier,Becerra,m,Democrat
+Face the Nation,7/7/13,John,McCain,m,Republican
+Face the Nation,7/7/13,Michael,McCaul,m,Republican
+Fox News Sunday,7/7/13,Dennis,Kucinich,m,Democrat
+Fox News Sunday,7/7/13,Bob,Corker,m,Republican
+State of the Union,7/7/13,Mike,Rogers,m,Republican
+State of the Union,7/7/13,Mike,Rogers,m,Republican
+Face the Nation,7/14/13,Richard,Durbin,m,Democrat
+Face the Nation,7/14/13,Peter,King,m,Republican
+Face the Nation,7/14/13,Mike,Kelly,m,Republican
+Fox News Sunday,7/14/13,Michael,McCaul,m,Republican
+Fox News Sunday,7/14/13,Steve,Israel,m,Democrat
+Fox News Sunday,7/14/13,Steve,King,m,Republican
+Fox News Sunday,7/14/13,Jane,Harman,f,Democrat
+Meet the Press,7/14/13,Harry,Reid,m,Democrat
+Meet the Press,7/14/13,Mitch,McConnell,m,Republican
+Meet the Press,7/14/13,Tom,Cotton,m,Republican
+State of the Union,7/14/13,Chaka,Fattah,m,Democrat
+This Week,7/14/13,Tom,Cole,m,Republican
+This Week,7/14/13,Amy,Klobuchar,f,Democrat
+This Week,7/14/13,Karen,Bass,f,Democrat
+This Week,7/14/13,Orrin,Hatch,m,Republican
+Face the Nation,7/21/13,John,Boehner,m,Republican
+Fox News Sunday,7/21/13,Scott,Brown,m,Republican
+Fox News Sunday,7/21/13,Evan,Bayh,m,Democrat
+Fox News Sunday,7/21/13,Donna,Edwards,f,Democrat
+Meet the Press,7/21/13,Marcia,Fudge,f,Democrat
+State of the Union,7/21/13,Cedric,Richmond,m,Democrat
+State of the Union,7/21/13,Xavier,Becerra,m,Democrat
+State of the Union,7/21/13,John,McCain,m,Republican
+This Week,7/21/13,Ted,Cruz,m,Republican
+Face the Nation,7/28/13,Mike,Rogers,m,Republican
+Face the Nation,7/28/13,Mike,Rogers,m,Republican
+Face the Nation,7/28/13,Mark,Udall,m,Democrat
+Fox News Sunday,7/28/13,Mike,Lee,m,Republican
+Meet the Press,7/28/13,Justin,Amash,m,Republican
+Meet the Press,7/28/13,Mike,Rogers,m,Republican
+Meet the Press,7/28/13,Mike,Rogers,m,Republican
+Meet the Press,7/28/13,Harold,Ford,m,Democrat
+Meet the Press,7/28/13,Harold,Ford,m,Democrat
+State of the Union,7/28/13,Peter,King,m,Republican
+State of the Union,7/28/13,Dianne,Feinstein,f,Democrat
+This Week,7/28/13,Richard,Durbin,m,Democrat
+This Week,7/28/13,Saxby,Chambliss,m,Republican
+This Week,7/28/13,Byron,Dorgan,m,Democrat
+Face the Nation,8/4/13,Paul,Ryan,m,Republican
+Face the Nation,8/4/13,Charles,Schumer,m,Democrat
+Face the Nation,8/4/13,Michael,McCaul,m,Republican
+Fox News Sunday,8/4/13,Jim,DeMint,m,Republican
+Fox News Sunday,8/4/13,Eric,Cantor,m,Republican
+Fox News Sunday,8/4/13,Justin,Amash,m,Republican
+Meet the Press,8/4/13,Richard,Durbin,m,Democrat
+Meet the Press,8/4/13,Saxby,Chambliss,m,Republican
+Meet the Press,8/4/13,Joe,Scarborough,m,Republican
+State of the Union,8/4/13,Artur,Davis,m,Democrat
+State of the Union,8/4/13,Steve,Israel,m,Democrat
+State of the Union,8/4/13,Lindsey,Graham,m,Republican
+This Week,8/4/13,Peter,King,m,Republican
+Face the Nation,8/11/13,Peter,King,m,Republican
+Fox News Sunday,8/11/13,John,McCain,m,Republican
+Fox News Sunday,8/11/13,Joseph,Lieberman,m,Independent
+Meet the Press,8/11/13,Michael,McCaul,m,Republican
+Meet the Press,8/11/13,Steve,King,m,Republican
+Meet the Press,8/11/13,Claire,McCaskill,f,Democrat
+State of the Union,8/11/13,James,Clyburn,m,Democrat
+This Week,8/11/13,Joaquin,Castro,m,Democrat
+This Week,8/11/13,Louie,Gohmert,m,Republican
+This Week,8/11/13,Byron,Dorgan,m,Democrat
+Face the Nation,8/18/13,Jackie,Speier,f,Democrat
+Face the Nation,8/18/13,Lindsey,Graham,m,Republican
+Face the Nation,8/18/13,Robert,Scott,m,Democrat
+Fox News Sunday,8/18/13,Peter,King,m,Republican
+Fox News Sunday,8/18/13,Dennis,Kucinich,m,Democrat
+Fox News Sunday,8/18/13,Rand,Paul,m,Republican
+Fox News Sunday,8/18/13,Evan,Bayh,m,Democrat
+Fox News Sunday,8/18/13,Richard,Blumenthal,m,Democrat
+Meet the Press,8/18/13,Kelly,Ayotte,f,Republican
+Meet the Press,8/18/13,Donna,Edwards,f,Democrat
+State of the Union,8/18/13,John,McCain,m,Republican
+State of the Union,8/18/13,Justin,Amash,m,Republican
+This Week,8/18/13,Eliot,Engel,m,Democrat
+This Week,8/18/13,Bob,Corker,m,Republican
+This Week,8/18/13,Keith,Ellison,m,Democrat
+Face the Nation,8/25/13,John,Lewis,m,Democrat
+Face the Nation,8/25/13,Michael,McCaul,m,Republican
+Fox News Sunday,8/25/13,Eliot,Engel,m,Democrat
+Fox News Sunday,8/25/13,Mary,Fallin,f,Republican
+Fox News Sunday,8/25/13,Scott,Brown,m,Republican
+Fox News Sunday,8/25/13,Bob,Corker,m,Republican
+Meet the Press,8/25/13,Cory,Booker,m,Democrat
+Meet the Press,8/25/13,John,Lewis,m,Democrat
+Meet the Press,8/25/13,Bobby,Jindal,m,Republican
+State of the Union,8/25/13,John,Lewis,m,Democrat
+State of the Union,8/25/13,Jim,DeMint,m,Republican
+State of the Union,8/25/13,Ted,Cruz,m,Republican
+This Week,8/25/13,John,Lewis,m,Democrat
+Face the Nation,9/1/13,Saxby,Chambliss,m,Republican
+Face the Nation,9/1/13,John,McCain,m,Republican
+Fox News Sunday,9/1/13,Peter,King,m,Republican
+Fox News Sunday,9/1/13,Joseph,Lieberman,m,Independent
+Meet the Press,9/1/13,Rand,Paul,m,Republican
+State of the Union,9/1/13,Eliot,Engel,m,Democrat
+State of the Union,9/1/13,Christopher,Murphy,m,Democrat
+Face the Nation,9/8/13,Elijah,Cummings,m,Democrat
+Face the Nation,9/8/13,Justin,Amash,m,Republican
+Face the Nation,9/8/13,Mike,Rogers,m,Republican
+Face the Nation,9/8/13,Mike,Rogers,m,Republican
+Fox News Sunday,9/8/13,Rand,Paul,m,Republican
+Meet the Press,9/8/13,Tom,Udall,m,Democrat
+Meet the Press,9/8/13,Peter,King,m,Republican
+Meet the Press,9/8/13,Michael,McCaul,m,Republican
+Meet the Press,9/8/13,Jane,Harman,f,Democrat
+Meet the Press,9/8/13,Loretta,Sanchez,f,Democrat
+State of the Union,9/8/13,Marsha,Blackburn,f,Republican
+State of the Union,9/8/13,Howard,McKeon,m,Republican
+State of the Union,9/8/13,Barbara,Lee,f,Democrat
+State of the Union,9/8/13,Gerald,Connolly,m,Democrat
+This Week,9/8/13,Adam,Kinzinger,m,Republican
+This Week,9/8/13,Ted,Cruz,m,Republican
+Face the Nation,9/15/13,John,Miller,m,Republican
+Face the Nation,9/15/13,Bob,Corker,m,Republican
+Fox News Sunday,9/15/13,Michael,McCaul,m,Republican
+Fox News Sunday,9/15/13,Jane,Harman,f,Democrat
+Meet the Press,9/15/13,Roy,Blunt,m,Republican
+Meet the Press,9/15/13,Barney,Frank,m,Democrat
+State of the Union,9/15/13,Adam,Schiff,m,Democrat
+State of the Union,9/15/13,Elijah,Cummings,m,Democrat
+State of the Union,9/15/13,Jason,Chaffetz,m,Republican
+State of the Union,9/15/13,Mike,Rogers,m,Republican
+State of the Union,9/15/13,Mike,Rogers,m,Republican
+State of the Union,9/15/13,Ron,Johnson,m,Republican
+This Week,9/15/13,Barack,Obama,m,Democrat
+This Week,9/15/13,Donna,Edwards,f,Democrat
+This Week,9/15/13,Justin,Amash,m,Republican
+Face the Nation,9/22/13,Matt,Salmon,m,Republican
+Fox News Sunday,9/22/13,Dennis,Kucinich,m,Democrat
+Fox News Sunday,9/22/13,Ted,Cruz,m,Republican
+Fox News Sunday,9/22/13,Claire,McCaskill,f,Democrat
+Meet the Press,9/22/13,Marsha,Blackburn,f,Republican
+Meet the Press,9/22/13,Amy,Klobuchar,f,Democrat
+Meet the Press,9/22/13,Barbara,Lee,f,Democrat
+Meet the Press,9/22/13,Mike,Lee,m,Republican
+State of the Union,9/22/13,Nancy,Pelosi,f,Democrat
+This Week,9/22/13,Tom,Graves,m,Republican
+Face the Nation,9/29/13,Marsha,Blackburn,f,Republican
+Face the Nation,9/29/13,Richard,Durbin,m,Democrat
+Face the Nation,9/29/13,Chris,Chocola,m,Republican
+Face the Nation,9/29/13,Rand,Paul,m,Republican
+Fox News Sunday,9/29/13,Kevin,McCarthy,m,Republican
+Fox News Sunday,9/29/13,Evan,Bayh,m,Democrat
+Fox News Sunday,9/29/13,Mike,Lee,m,Republican
+Meet the Press,9/29/13,Ted,Cruz,m,Republican
+State of the Union,9/29/13,Artur,Davis,m,Democrat
+State of the Union,9/29/13,John,Barrasso,m,Republican
+Face the Nation,10/6/13,John,Cornyn,m,Republican
+Fox News Sunday,10/6/13,Tom,Graves,m,Republican
+Fox News Sunday,10/6/13,Peter,King,m,Republican
+Meet the Press,10/6/13,Rand,Paul,m,Republican
+Meet the Press,10/6/13,Marcia,Fudge,f,Democrat
+State of the Union,10/6/13,Ted,Cruz,m,Republican
+State of the Union,10/6/13,Steve,King,m,Republican
+State of the Union,10/6/13,Donna,Edwards,f,Democrat
+This Week,10/6/13,Charles,Schumer,m,Democrat
+This Week,10/6/13,Mick,Mulvaney,m,Republican
+This Week,10/6/13,John,Boehner,m,Republican
+Face the Nation,10/13/13,Kelly,Ayotte,f,Republican
+Face the Nation,10/13/13,John,McCain,m,Republican
+Face the Nation,10/13/13,Charles,Schumer,m,Democrat
+Fox News Sunday,10/13/13,Jim,Jordan,m,Republican
+Fox News Sunday,10/13/13,Evan,Bayh,m,Democrat
+Fox News Sunday,10/13/13,Bob,Corker,m,Republican
+Meet the Press,10/13/13,Richard,Durbin,m,Democrat
+Meet the Press,10/13/13,Leon,Panetta,m,Democrat
+Meet the Press,10/13/13,Harold,Ford,m,Democrat
+Meet the Press,10/13/13,Harold,Ford,m,Democrat
+State of the Union,10/13/13,Rand,Paul,m,Republican
+This Week,10/13/13,Lindsey,Graham,m,Republican
+This Week,10/13/13,Keith,Ellison,m,Democrat
+Face the Nation,10/20/13,Mark,Warner,m,Democrat
+Face the Nation,10/20/13,Mitch,McConnell,m,Republican
+Face the Nation,10/20/13,Lindsey,Graham,m,Republican
+Fox News Sunday,10/20/13,Roy,Blunt,m,Republican
+Fox News Sunday,10/20/13,Richard,Durbin,m,Democrat
+Fox News Sunday,10/20/13,Marco,Rubio,m,Republican
+Meet the Press,10/20/13,Charles,Schumer,m,Democrat
+State of the Union,10/20/13,John,McCain,m,Republican
+State of the Union,10/20/13,Ted,Cruz,m,Republican
+This Week,10/20/13,Adam,Kinzinger,m,Republican
+This Week,10/20/13,Ted,Cruz,m,Republican
+This Week,10/20/13,Nancy,Pelosi,f,Democrat
+This Week,10/20/13,Donna,Edwards,f,Democrat
+Face the Nation,10/27/13,Darrell,Issa,m,Republican
+Face the Nation,10/27/13,Jeanne,Shaheen,f,Democrat
+Fox News Sunday,10/27/13,Marsha,Blackburn,f,Republican
+Fox News Sunday,10/27/13,Xavier,Becerra,m,Democrat
+Fox News Sunday,10/27/13,Bobby,Jindal,m,Republican
+Meet the Press,10/27/13,Peter,King,m,Republican
+Meet the Press,10/27/13,John,Kasich,m,Republican
+State of the Union,10/27/13,John,Fleming,m,Republican
+State of the Union,10/27/13,Mike,Rogers,m,Republican
+State of the Union,10/27/13,Mike,Rogers,m,Republican
+This Week,10/27/13,John,Barrasso,m,Republican
+Face the Nation,11/3/13,Dianne,Feinstein,f,Democrat
+Face the Nation,11/3/13,Mike,Rogers,m,Republican
+Face the Nation,11/3/13,Mike,Rogers,m,Republican
+Fox News Sunday,11/3/13,Scott,Brown,m,Republican
+Fox News Sunday,11/3/13,Evan,Bayh,m,Democrat
+Fox News Sunday,11/3/13,Lindsey,Graham,m,Republican
+Meet the Press,11/3/13,John,Kasich,m,Republican
+State of the Union,11/3/13,Kelly,Ayotte,f,Republican
+State of the Union,11/3/13,Michael,McCaul,m,Republican
+This Week,11/3/13,Rand,Paul,m,Republican
+Face the Nation,11/10/13,Leon,Panetta,m,Democrat
+Meet the Press,11/10/13,Richard,Durbin,m,Democrat
+Meet the Press,11/10/13,Donna,Edwards,f,Democrat
+Meet the Press,11/10/13,Bob,Corker,m,Republican
+State of the Union,11/10/13,Artur,Davis,m,Democrat
+State of the Union,11/10/13,Lindsey,Graham,m,Republican
+This Week,11/10/13,Charles,Schumer,m,Democrat
+This Week,11/10/13,Keith,Ellison,m,Democrat
+Fox News Sunday,11/17/13,Patrick,Kennedy,m,Democrat
+Meet the Press,11/17/13,Kelly,Ayotte,f,Republican
+Meet the Press,11/17/13,Nancy,Pelosi,f,Democrat
+State of the Union,11/17/13,James,Clyburn,m,Democrat
+State of the Union,11/17/13,John,Barrasso,m,Republican
+This Week,11/17/13,Adam,Kinzinger,m,Republican
+This Week,11/17/13,Kirsten,Gillibrand,f,Democrat
+This Week,11/17/13,Patrick,Kennedy,m,Democrat
+Face the Nation,11/24/13,Kevin,McCarthy,m,Republican
+Face the Nation,11/24/13,Steny,Hoyer,m,Democrat
+Fox News Sunday,11/24/13,Benjamin,Cardin,m,Democrat
+Fox News Sunday,11/24/13,Bob,Corker,m,Republican
+State of the Union,11/24/13,Eliot,Engel,m,Democrat
+State of the Union,11/24/13,Bernard,Sanders,m,Independent
+State of the Union,11/24/13,Ron,Johnson,m,Republican
+This Week,11/24/13,Saxby,Chambliss,m,Republican
+Face the Nation,12/1/13,Bob,Corker,m,Republican
+Fox News Sunday,12/1/13,Evan,Bayh,m,Democrat
+Fox News Sunday,12/1/13,Jane,Harman,f,Democrat
+Meet the Press,12/1/13,Mike,Rogers,m,Republican
+Meet the Press,12/1/13,Mike,Rogers,m,Republican
+State of the Union,12/1/13,Dianne,Feinstein,f,Democrat
+State of the Union,12/1/13,Mike,Rogers,m,Republican
+State of the Union,12/1/13,Mike,Rogers,m,Republican
+This Week,12/1/13,Tom,Cole,m,Republican
+This Week,12/1/13,Keith,Ellison,m,Democrat
+Face the Nation,12/8/13,John,Lewis,m,Democrat
+Fox News Sunday,12/8/13,Rand,Paul,m,Republican
+Meet the Press,12/8/13,Jesse,Jackson,m,Democrat
+State of the Union,12/8/13,Adam,Schiff,m,Democrat
+State of the Union,12/8/13,Michael,McCaul,m,Republican
+This Week,12/8/13,Richard,Durbin,m,Democrat
+Face the Nation,12/15/13,Richard,Durbin,m,Democrat
+Face the Nation,12/15/13,John,McCain,m,Republican
+Fox News Sunday,12/15/13,Paul,Ryan,m,Republican
+Meet the Press,12/15/13,Patty,Murray,f,Democrat
+Meet the Press,12/15/13,Paul,Ryan,m,Republican
+State of the Union,12/15/13,John,McCain,m,Republican
+This Week,12/15/13,John,Kerry,m,Democrat
+Face the Nation,12/22/13,David,Martin,m,Republican
+Meet the Press,12/22/13,Peter,King,m,Republican
+Meet the Press,12/22/13,Charles,Schumer,m,Democrat
+Meet the Press,12/22/13,Patrick,Leahy,m,Democrat
+State of the Union,12/22/13,Aaron,Schock,m,Republican
+State of the Union,12/22/13,Tulsi,Gabbard,f,Democrat
+This Week,12/22/13,Mike,Rogers,m,Republican
+This Week,12/22/13,Mike,Rogers,m,Republican
+This Week,12/22/13,Mark,Udall,m,Democrat
+Fox News Sunday,12/29/13,Adam,Schiff,m,Democrat
+Fox News Sunday,12/29/13,Scott,Brown,m,Republican
+Fox News Sunday,12/29/13,Joseph,Lieberman,m,Independent
+Fox News Sunday,12/29/13,Mike,Rogers,m,Republican
+Fox News Sunday,12/29/13,Mike,Rogers,m,Republican
+Meet the Press,12/29/13,Darrell,Issa,m,Republican
+Meet the Press,12/29/13,Joaquin,Castro,m,Democrat
+Face the Nation,1/5/14,Harry,Reid,m,Democrat
+Face the Nation,1/5/14,Matt,Salmon,m,Republican
+Face the Nation,1/5/14,Peter,King,m,Republican
+Meet the Press,1/5/14,Donna,Edwards,f,Democrat
+This Week,1/5/14,Charles,Schumer,m,Democrat
+This Week,1/5/14,Rand,Paul,m,Republican
+Face the Nation,1/12/14,Elijah,Cummings,m,Democrat
+Face the Nation,1/12/14,Marco,Rubio,m,Republican
+Fox News Sunday,1/12/14,Benjamin,Cardin,m,Democrat
+Meet the Press,1/12/14,Jane,Harman,f,Democrat
+State of the Union,1/12/14,John,McCain,m,Republican
+This Week,1/12/14,Adam,Kinzinger,m,Republican
+Face the Nation,1/19/14,Mike,Rogers,m,Republican
+Face the Nation,1/19/14,Mike,Rogers,m,Republican
+Face the Nation,1/19/14,Mark,Udall,m,Democrat
+Fox News Sunday,1/19/14,Patrick,Leahy,m,Democrat
+Meet the Press,1/19/14,Dianne,Feinstein,f,Democrat
+Meet the Press,1/19/14,Mike,Rogers,m,Republican
+Meet the Press,1/19/14,Mike,Rogers,m,Republican
+Meet the Press,1/19/14,Harold,Ford,m,Democrat
+Meet the Press,1/19/14,Harold,Ford,m,Democrat
+State of the Union,1/19/14,Angus,King,m,Independent
+State of the Union,1/19/14,Mike,Rogers,m,Republican
+State of the Union,1/19/14,Mike,Rogers,m,Republican
+This Week,1/19/14,Michael,McCaul,m,Republican
+Face the Nation,1/26/14,Charles,Schumer,m,Democrat
+Face the Nation,1/26/14,Ted,Cruz,m,Republican
+Face the Nation,1/26/14,Michael,McCaul,m,Republican
+Fox News Sunday,1/26/14,Mitch,McConnell,m,Republican
+Fox News Sunday,1/26/14,Evan,Bayh,m,Democrat
+Meet the Press,1/26/14,Richard,Durbin,m,Democrat
+Meet the Press,1/26/14,Rand,Paul,m,Republican
+Meet the Press,1/26/14,Loretta,Sanchez,f,Democrat
+State of the Union,1/26/14,Tom,Cole,m,Republican
+State of the Union,1/26/14,Steny,Hoyer,m,Democrat
+State of the Union,1/26/14,Rand,Paul,m,Republican
+Face the Nation,2/2/14,Eric,Cantor,m,Republican
+Meet the Press,2/2/14,Tim,Scott,m,Republican
+State of the Union,2/2/14,Artur,Davis,m,Democrat
+State of the Union,2/2/14,Bobby,Jindal,m,Republican
+This Week,2/2/14,Paul,Ryan,m,Republican
+Face the Nation,2/9/14,Kelly,Ayotte,f,Republican
+Face the Nation,2/9/14,Richard,Durbin,m,Democrat
+Face the Nation,2/9/14,Peter,King,m,Republican
+Fox News Sunday,2/9/14,Roy,Blunt,m,Republican
+Fox News Sunday,2/9/14,Adam,Schiff,m,Democrat
+Fox News Sunday,2/9/14,Michael,McCaul,m,Republican
+Fox News Sunday,2/9/14,Benjamin,Cardin,m,Democrat
+Meet the Press,2/9/14,Charles,Schumer,m,Democrat
+This Week,2/9/14,Tom,Cole,m,Republican
+This Week,2/9/14,Mike,Rogers,m,Republican
+This Week,2/9/14,Mike,Rogers,m,Republican
+This Week,2/9/14,Keith,Ellison,m,Democrat
+Face the Nation,2/16/14,Jim,DeMint,m,Republican
+Fox News Sunday,2/16/14,Xavier,Becerra,m,Democrat
+Fox News Sunday,2/16/14,Ted,Strickland,m,Democrat
+Fox News Sunday,2/16/14,Mike,Lee,m,Republican
+Meet the Press,2/16/14,Marsha,Blackburn,f,Republican
+State of the Union,2/16/14,John,McCain,m,Republican
+Face the Nation,2/23/14,John,McCain,m,Republican
+Face the Nation,2/23/14,Bobby,Jindal,m,Republican
+Fox News Sunday,2/23/14,Kelly,Ayotte,f,Republican
+Fox News Sunday,2/23/14,Richard,Durbin,m,Democrat
+Fox News Sunday,2/23/14,Jane,Harman,f,Democrat
+State of the Union,2/23/14,Mike,Pence,m,Republican
+Face the Nation,3/2/14,Kirsten,Gillibrand,f,Democrat
+Face the Nation,3/2/14,David,Martin,m,Republican
+Fox News Sunday,3/2/14,Darrell,Issa,m,Republican
+Fox News Sunday,3/2/14,Scott,Brown,m,Republican
+Fox News Sunday,3/2/14,Evan,Bayh,m,Democrat
+Meet the Press,3/2/14,Saxby,Chambliss,m,Republican
+Meet the Press,3/2/14,Marco,Rubio,m,Republican
+Meet the Press,3/2/14,Claire,McCaskill,f,Democrat
+This Week,3/2/14,Adam,Kinzinger,m,Republican
+Fox News Sunday,3/9/14,Rand,Paul,m,Republican
+Fox News Sunday,3/9/14,Jane,Harman,f,Democrat
+Meet the Press,3/9/14,Karen,Bass,f,Democrat
+State of the Union,3/9/14,Charlie,Crist,m,Democrat
+This Week,3/9/14,Joaquin,Castro,m,Democrat
+This Week,3/9/14,Ted,Cruz,m,Republican
+This Week,3/9/14,Rand,Paul,m,Republican
+This Week,3/9/14,Mike,Rogers,m,Republican
+This Week,3/9/14,Mike,Rogers,m,Republican
+Face the Nation,3/16/14,Mike,Rogers,m,Republican
+Face the Nation,3/16/14,Mike,Rogers,m,Republican
+Fox News Sunday,3/16/14,Michael,McCaul,m,Republican
+Fox News Sunday,3/16/14,Bob,Corker,m,Republican
+Meet the Press,3/16/14,Richard,Durbin,m,Democrat
+Meet the Press,3/16/14,Jeff,Flake,m,Republican
+State of the Union,3/16/14,John,McCain,m,Republican
+This Week,3/16/14,Peter,King,m,Republican
+This Week,3/16/14,Christopher,Murphy,m,Democrat
+Face the Nation,3/23/14,Kelly,Ayotte,f,Republican
+Face the Nation,3/23/14,Richard,Durbin,m,Democrat
+Fox News Sunday,3/23/14,Michael,McCaul,m,Republican
+Fox News Sunday,3/23/14,John,Kasich,m,Republican
+Meet the Press,3/23/14,Mike,Rogers,m,Republican
+Meet the Press,3/23/14,Mike,Rogers,m,Republican
+State of the Union,3/23/14,Patrick,Meehan,m,Republican
+This Week,3/23/14,Tom,Cole,m,Republican
+This Week,3/23/14,Keith,Ellison,m,Democrat
+Fox News Sunday,3/30/14,Angus,King,m,Independent
+Fox News Sunday,3/30/14,John,Barrasso,m,Republican
+Fox News Sunday,3/30/14,Mike,Rogers,m,Republican
+Fox News Sunday,3/30/14,Mike,Rogers,m,Republican
+Meet the Press,3/30/14,Ron,Wyden,m,Democrat
+State of the Union,3/30/14,Dianne,Feinstein,f,Democrat
+Face the Nation,4/6/14,Michael,McCaul,m,Republican
+Fox News Sunday,4/6/14,Michael,McCaul,m,Republican
+Meet the Press,4/6/14,John,Sununu,m,Republican
+Meet the Press,4/6/14,Harold,Ford,m,Democrat
+Meet the Press,4/6/14,Harold,Ford,m,Democrat
+State of the Union,4/6/14,Tulsi,Gabbard,f,Democrat
+State of the Union,4/6/14,Nancy,Pelosi,f,Democrat
+State of the Union,4/6/14,Tim,Murphy,m,Republican
+State of the Union,4/6/14,Mike,Rogers,m,Republican
+State of the Union,4/6/14,Mike,Rogers,m,Republican
+This Week,4/6/14,John,Carter,m,Republican
+This Week,4/6/14,Claire,McCaskill,f,Democrat
+Face the Nation,4/13/14,Marsha,Blackburn,f,Republican
+Face the Nation,4/13/14,Elijah,Cummings,m,Democrat
+Fox News Sunday,4/13/14,Sander,Levin,m,Democrat
+Fox News Sunday,4/13/14,Sheldon,Whitehouse,m,Democrat
+Fox News Sunday,4/13/14,Tim,Scott,m,Republican
+Meet the Press,4/13/14,Edward,Markey,m,Democrat
+Meet the Press,4/13/14,Donna,Edwards,f,Democrat
+State of the Union,4/13/14,Steve,Israel,m,Democrat
+State of the Union,4/13/14,Greg,Walden,m,Republican
+This Week,4/13/14,Rand,Paul,m,Republican
+Fox News Sunday,4/20/14,Evan,Bayh,m,Democrat
+Meet the Press,4/20/14,Bob,Corker,m,Republican
+Meet the Press,4/20/14,Christopher,Murphy,m,Democrat
+State of the Union,4/20/14,John,Walsh,m,Democrat
+This Week,4/20/14,Michael,McCaul,m,Republican
+Face the Nation,4/27/14,Bob,Corker,m,Republican
+Face the Nation,4/27/14,Claire,McCaskill,f,Democrat
+Fox News Sunday,4/27/14,Mike,Pence,m,Republican
+State of the Union,4/27/14,Benjamin,Cardin,m,Democrat
+State of the Union,4/27/14,John,Barrasso,m,Republican
+This Week,4/27/14,Elizabeth,Warren,f,Democrat
+Face the Nation,5/4/14,Lindsey,Graham,m,Republican
+Fox News Sunday,5/4/14,Kelly,Ayotte,f,Republican
+Fox News Sunday,5/4/14,Adam,Schiff,m,Democrat
+Fox News Sunday,5/4/14,Michael,McCaul,m,Republican
+Fox News Sunday,5/4/14,Jane,Harman,f,Democrat
+Meet the Press,5/4/14,Jason,Chaffetz,m,Republican
+State of the Union,5/4/14,Eliot,Engel,m,Democrat
+State of the Union,5/4/14,Ron,Johnson,m,Republican
+Face the Nation,5/11/14,Elizabeth,Warren,f,Democrat
+Face the Nation,5/11/14,Mike,Rogers,m,Republican
+Face the Nation,5/11/14,Mike,Rogers,m,Republican
+Fox News Sunday,5/11/14,Trey,Gowdy,m,Republican
+Fox News Sunday,5/11/14,Xavier,Becerra,m,Democrat
+Fox News Sunday,5/11/14,John,Campbell,m,Republican
+State of the Union,5/11/14,Michele,Bachmann,f,Republican
+This Week,5/11/14,Adam,Kinzinger,m,Republican
+This Week,5/11/14,Marco,Rubio,m,Republican
+Meet the Press,5/18/14,Adam,Kinzinger,m,Republican
+Meet the Press,5/18/14,Blanche,Lincoln,f,Democrat
+Meet the Press,5/18/14,Claire,McCaskill,f,Democrat
+This Week,5/18/14,Keith,Ellison,m,Democrat
+Face the Nation,5/25/14,Adam,Kinzinger,m,Republican
+Face the Nation,5/25/14,John,Thune,m,Republican
+Face the Nation,5/25/14,Richard,Blumenthal,m,Democrat
+Fox News Sunday,5/25/14,Kelly,Ayotte,f,Republican
+State of the Union,5/25/14,Bernard,Sanders,m,Independent
+State of the Union,5/25/14,Mike,Pence,m,Republican
+State of the Union,5/25/14,Jeff,Miller,m,Republican
+Face the Nation,6/1/14,John,McCain,m,Republican
+Face the Nation,6/1/14,Bernard,Sanders,m,Independent
+Fox News Sunday,6/1/14,Evan,Bayh,m,Democrat
+Fox News Sunday,6/1/14,Claire,McCaskill,f,Democrat
+Fox News Sunday,6/1/14,Jeff,Miller,m,Republican
+Meet the Press,6/1/14,Adam,Kinzinger,m,Republican
+Meet the Press,6/1/14,Jane,Harman,f,Democrat
+State of the Union,6/1/14,Mike,Rogers,m,Republican
+State of the Union,6/1/14,Mike,Rogers,m,Republican
+State of the Union,6/1/14,James,Jones,m,Democrat
+This Week,6/1/14,Ted,Cruz,m,Republican
+Face the Nation,6/8/14,Saxby,Chambliss,m,Republican
+Face the Nation,6/8/14,Dianne,Feinstein,f,Democrat
+State of the Union,6/8/14,John,McCain,m,Republican
+State of the Union,6/8/14,John,Kerry,m,Democrat
+This Week,6/8/14,Tom,Cole,m,Republican
+This Week,6/8/14,Hillary,Clinton,f,Democrat
+This Week,6/8/14,Mike,Rogers,m,Republican
+This Week,6/8/14,Mike,Rogers,m,Republican
+Face the Nation,6/15/14,Lindsey,Graham,m,Republican
+Fox News Sunday,6/15/14,Tom,Price,m,Republican
+Fox News Sunday,6/15/14,Jane,Harman,f,Democrat
+Fox News Sunday,6/15/14,Greg,Walden,m,Republican
+Fox News Sunday,6/15/14,Mike,Rogers,m,Republican
+Fox News Sunday,6/15/14,Mike,Rogers,m,Republican
+Meet the Press,6/15/14,Peter,King,m,Republican
+Meet the Press,6/15/14,Harold,Ford,m,Democrat
+Meet the Press,6/15/14,Harold,Ford,m,Democrat
+State of the Union,6/15/14,Adam,Kinzinger,m,Republican
+State of the Union,6/15/14,Tulsi,Gabbard,f,Democrat
+State of the Union,6/15/14,Eric,Cantor,m,Republican
+This Week,6/15/14,Michael,McCaul,m,Republican
+This Week,6/15/14,Eric,Cantor,m,Republican
+Face the Nation,6/22/14,Mike,Rogers,m,Republican
+Face the Nation,6/22/14,Mike,Rogers,m,Republican
+Face the Nation,6/22/14,Marco,Rubio,m,Republican
+Fox News Sunday,6/22/14,Kevin,McCarthy,m,Republican
+Meet the Press,6/22/14,Michael,McCaul,m,Republican
+Meet the Press,6/22/14,Rand,Paul,m,Republican
+State of the Union,6/22/14,Rand,Paul,m,Republican
+State of the Union,6/22/14,Dianne,Feinstein,f,Democrat
+This Week,6/22/14,Adam,Kinzinger,m,Republican
+This Week,6/22/14,Keith,Ellison,m,Democrat
+Face the Nation,6/29/14,John,Barrasso,m,Republican
+Fox News Sunday,6/29/14,Xavier,Becerra,m,Democrat
+Meet the Press,6/29/14,Sean,Duffy,m,Republican
+State of the Union,6/29/14,Darrell,Issa,m,Republican
+State of the Union,6/29/14,Mike,Rogers,m,Republican
+State of the Union,6/29/14,Mike,Rogers,m,Republican
+This Week,6/29/14,Peter,King,m,Republican
+This Week,6/29/14,Barack,Obama,m,Democrat
+Face the Nation,7/6/14,Richard,Durbin,m,Democrat
+Face the Nation,7/6/14,John,McCain,m,Republican
+Face the Nation,7/6/14,Lindsey,Graham,m,Republican
+Fox News Sunday,7/6/14,Darrell,Issa,m,Republican
+Fox News Sunday,7/6/14,John,Barrasso,m,Republican
+State of the Union,7/6/14,Henry,Cuellar,m,Democrat
+Face the Nation,7/13/14,Jane,Harman,f,Democrat
+Fox News Sunday,7/13/14,Michael,McCaul,m,Republican
+Fox News Sunday,7/13/14,Dennis,Ross,m,Republican
+Meet the Press,7/13/14,Joaquin,Castro,m,Democrat
+Meet the Press,7/13/14,Mike,Rogers,m,Republican
+Meet the Press,7/13/14,Mike,Rogers,m,Republican
+State of the Union,7/13/14,Aaron,Schock,m,Republican
+State of the Union,7/13/14,Marsha,Blackburn,f,Republican
+State of the Union,7/13/14,John,McCain,m,Republican
+State of the Union,7/13/14,Donna,Edwards,f,Democrat
+Face the Nation,7/20/14,Peter,King,m,Republican
+Face the Nation,7/20/14,John,Kerry,m,Democrat
+Fox News Sunday,7/20/14,Ted,Cruz,m,Republican
+Fox News Sunday,7/20/14,Evan,Bayh,m,Democrat
+Fox News Sunday,7/20/14,Bob,Corker,m,Republican
+Fox News Sunday,7/20/14,John,Kerry,m,Democrat
+Meet the Press,7/20/14,Lindsey,Graham,m,Republican
+Meet the Press,7/20/14,John,Kerry,m,Democrat
+State of the Union,7/20/14,Michael,McCaul,m,Republican
+State of the Union,7/20/14,Robert,Turner,m,Republican
+State of the Union,7/20/14,Dianne,Feinstein,f,Democrat
+State of the Union,7/20/14,John,Kerry,m,Democrat
+This Week,7/20/14,Mike,Rogers,m,Republican
+This Week,7/20/14,Mike,Rogers,m,Republican
+This Week,7/20/14,John,Kerry,m,Democrat
+Face the Nation,7/27/14,Mike,Rogers,m,Republican
+Face the Nation,7/27/14,Mike,Rogers,m,Republican
+Fox News Sunday,7/27/14,Steve,Scalise,m,Republican
+Meet the Press,7/27/14,Paul,Ryan,m,Republican
+State of the Union,7/27/14,Nancy,Pelosi,f,Democrat
+State of the Union,7/27/14,Lindsey,Graham,m,Republican
+State of the Union,7/27/14,Jane,Harman,f,Democrat
+State of the Union,7/27/14,Christopher,Murphy,m,Democrat
+This Week,7/27/14,Tom,Cole,m,Republican
+This Week,7/27/14,Henry,Cuellar,m,Democrat
+This Week,7/27/14,John,Cornyn,m,Republican
+Face the Nation,8/3/14,Saxby,Chambliss,m,Republican
+Fox News Sunday,8/3/14,Steve,King,m,Republican
+Fox News Sunday,8/3/14,Hakeem,Jeffries,m,Democrat
+Fox News Sunday,8/3/14,Marco,Rubio,m,Republican
+Meet the Press,8/3/14,John,Thune,m,Republican
+Meet the Press,8/3/14,Keith,Ellison,m,Democrat
+State of the Union,8/3/14,Mike,Rogers,m,Republican
+State of the Union,8/3/14,Mike,Rogers,m,Republican
+This Week,8/3/14,Joaquin,Castro,m,Democrat
+This Week,8/3/14,Tim,Scott,m,Republican
