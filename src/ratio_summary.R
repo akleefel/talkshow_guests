@@ -3,7 +3,8 @@
 # Alexander Kleefeldt Dec, 2017
 
 # This script reads in the cleaned talkshow guest file (party_guests_clean.csv) and outpus a 
-# summary graphic as a png file
+# summary table of ratios of representatives from different parties across the different
+# tv shows. The output is a csv file called party_guests_ratios.csv. 
 
 #loading libraries 
 
@@ -21,7 +22,7 @@ main <- function(){
     #changing columns to factors
     talkshow_guests <- talkshow_guests %>% mutate(show = as.factor(show), party = as.factor(party))
     
-    #creating separate dataframes for each talkshow 
+    #creating separate dataframes for each talkshow and calculating ratios
     fox_news <- talkshow_guests %>% filter(show == "Fox News Sunday")
     fox_news_shows <- fox_news %>% group_by(date) %>% summarise(n())
     fox_news_shows <- nrow(fox_news_shows)
@@ -70,7 +71,7 @@ main <- function(){
      
     
     #write clean csv to output folder
-    write_csv(party_guests_ratios, path = "results/party_guests_ratios.csv")  
+    write_csv(ratio_summary, path = "results/party_guests_ratios.csv")  
 }
 
 main()
