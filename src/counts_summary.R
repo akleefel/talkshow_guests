@@ -1,9 +1,18 @@
 #! /usr/bin/env Rscript
-# sumary_graphic.R
+# counts_summary.R
 # Alexander Kleefeldt Dec, 2017
-
+#
 # This script reads in the cleaned talkshow guest file (party_guests_clean.csv) and outpus a 
-# summary table of total counts of politician appearances across the different tv-shows 
+# summary table of total counts (party_guests_counts.csv) of politician appearances across the different tv-shows 
+#
+#Usage: Rscript src/counts_summary.R results/party_guests_clean.csv results/party_guests_counts.csv
+
+
+#creating input variables 
+args <- commandArgs(trailingOnly = TRUE)
+input_file <- args[1] 
+output_file <- args[2]
+
 
 #loading libraries 
 
@@ -13,7 +22,7 @@ suppressMessages(library(ggplot2))
 suppressMessages(library(lubridate))
 
 #loading in data
-talkshow_guests <- read_csv("results/party_guests_clean.csv")
+talkshow_guests <- read_csv(input_file)
 
 
 main <- function(){
@@ -80,7 +89,7 @@ main <- function(){
   summary_counts <-   summary_counts[c(5,4,1,3,2)]
   
   #write clean csv to output folder
-  write_csv(summary_counts, path = "results/party_guests_counts.csv")  
+  write_csv(summary_counts, path = output_file)  
 }
 
 main()
