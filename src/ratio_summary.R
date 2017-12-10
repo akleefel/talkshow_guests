@@ -37,7 +37,6 @@ main <- function(){
   fox_news_ratio <- fox_news_ratio %>% spread(party, ratio) %>% mutate(Show = "Fox News")
   
   
-  
   meet_the_press <- talkshow_guests %>% filter(show == "Meet the Press") 
   meet_the_press_shows <- meet_the_press %>% group_by(date) %>% summarise(n())
   meet_the_press_shows <- nrow(meet_the_press_shows)

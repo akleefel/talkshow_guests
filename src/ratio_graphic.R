@@ -13,7 +13,6 @@ input_file <- args[1]
 output_file <- args[2]
 
 
-
 suppressMessages(library(tidyverse))
 suppressMessages(library(dplyr))
 suppressMessages(library(ggplot2))
@@ -23,6 +22,7 @@ guest_ratios <- read_csv(input_file)
 
 
 main <- function(){
+  #some data wrangling to create dataframe in tidy format
   guest_ratios <- gather(guest_ratios, "party", "ratio", 1:3)
   guest_ratios <- guest_ratios %>% rename(Party = party) %>% rename(Ratio = ratio)
   
@@ -32,6 +32,7 @@ main <- function(){
   
   my_colors <- c("green4", "navyblue", "firebrick3")
   
+  #creating stacked bar chart to visualize proportion of guests from different parties for each show
   ratio_plot <- ggplot(guest_ratios, aes(x=Show, y = Ratio))+
     geom_bar(aes(fill = Party), stat="identity", color = "black")+
     scale_fill_manual(values = my_colors)+

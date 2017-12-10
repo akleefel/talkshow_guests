@@ -5,13 +5,14 @@
 # This script reads in the cleaned talkshow guest file (party_guests_clean.csv) and outpus a 
 # summary table of total counts (party_guests_counts.csv) of politician appearances across the different tv-shows 
 #
-#Usage: Rscript src/counts_summary.R results/party_guests_clean.csv results/party_guests_counts.csv
+#Usage: Rscript src/counts_summary.R results/party_guests_clean.csv results/party_guests_counts.csv results/summary_counts.png
 
 
 #creating input variables 
 args <- commandArgs(trailingOnly = TRUE)
 input_file <- args[1] 
 output_file <- args[2]
+output_file2 <- args[3]
 
 
 #loading libraries 
@@ -20,6 +21,7 @@ suppressMessages(library(tidyverse))
 suppressMessages(library(dplyr))
 suppressMessages(library(ggplot2))
 suppressMessages(library(lubridate))
+suppressMessages(library(gridExtra))
 
 #loading in data
 talkshow_guests <- read_csv(input_file)
@@ -31,13 +33,14 @@ main <- function(){
   fox_news_shows <- fox_news %>% group_by(date) %>% summarise(n())
   fox_news_shows <- nrow(fox_news_shows)
   
+  #finding guest cound per party & total guest count 
   fox_news_count <- fox_news %>% 
     group_by(party) %>% 
     summarise( count = n()) %>% 
     spread(party,count) %>% 
     mutate(total_guests = sum(Democrat, Independent, Republican))
   
-  
+  #repeating the steps for each of the 5 talk shows
   meet_the_press <- talkshow_guests %>% filter(show == "Meet the Press")
   meet_the_press_shows <- meet_the_press %>% group_by(date) %>% summarise(n())
   meet_the_press_shows <- nrow(meet_the_press_shows)
@@ -81,15 +84,22 @@ main <- function(){
     spread(party,count) %>% 
     mutate(total_guests = sum(Democrat, Independent, Republican))
   
-  
+  #merging the individual dataframes to one dataframe to summarize results
   summary_counts <- rbind(fox_news_count,meet_the_press_count,face_the_nation_count,state_of_the_union_count,this_week_count) 
   summary_counts <- summary_counts %>% 
     mutate(show = c("Fox News Sunday","Meet the Press","Face the Nation","State of the Union","This Week"))
   
+  #reordering the columns
   summary_counts <-   summary_counts[c(5,4,1,3,2)]
   
   #write clean csv to output folder
   write_csv(summary_counts, path = output_file)  
+  
+  #export table as png for report 
+  png(output_file2)
+  grid.table(summary_counts)
+  dev.off()
+  
 }
 
 main()

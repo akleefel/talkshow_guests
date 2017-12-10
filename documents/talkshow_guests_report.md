@@ -7,10 +7,7 @@ output: pdf_document
 ---
 
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE,
-                      fig.width = 8, fig.height = 6)
-```
+
 
 
 
@@ -34,15 +31,11 @@ In the further process of the projcet, I summarized the data
 
 The following table summarizes the total counts of guests from the different parties for each talk show: 
 
-```{r}
-knitr::include_graphics("../results/summary_counts.png")
-```
+![plot of chunk unnamed-chunk-1](../results/party_guests_count.csv)
 
 The below graph visualizes the fact that most talk shows have a larger proportion of guests coming from the Republican Party. According to my analysis, only NBC's "Meet The Press" has offered an even amount of screen time to politicians from the Republican and Democratic Party.
 
-```{r}
-knitr::include_graphics('../results/ratio_plot.png')
-```
+![plot of chunk unnamed-chunk-2](../results/ratio_plot.png)
 
 ## Interpretation 
 

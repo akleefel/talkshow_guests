@@ -28,7 +28,7 @@ To reproduce the results of this project, follow these steps:
  ```
   * creating a [summary table of guest counts](results/party_guests_counts.csv).  Using the [summary table of guest ratios](results/party_guests_ratios.csv) as input
   ```
-  Rscript src/counts_summary.R results/party_guests_clean.csv results/party_guests_counts.csv
+  Rscript src/counts_summary.R results/party_guests_clean.csv results/party_guests_counts.csv results/summary_counts.png
   ```
    *  creating a [stacked bar chart](results/ratio_plot.png). Using the [summary table of guest ratios](results/party_guests_ratios.csv) as input
    ```
