@@ -11,7 +11,7 @@ all: documents/talkshow_guests_report.md
 ##########################################################
 
 #creating cleaned and merged dataset that names and party affiliation of politicians who were guests in one of the talk shows.
-results/party_guests_clean.csv: src/import_clean_merge.R
+Results/party_guests_clean.csv: src/import_clean_merge.R
 	Rscript src/import_clean_merge.R https://raw.githubusercontent.com/TheUpshot/Sunday-Shows/master/guests.csv raw_data/legislators-current.csv raw_data/legislators-historical.csv results/party_guests_clean.csv
 
 #creating summary table of guest ratios. Using the cleaned and merged dataset as input
@@ -37,7 +37,7 @@ results/ratio_plot.png: results/party_guests_ratios.csv src/ratio_graphic.R
 ###########################################################
 
 #creating a project report that summarizes all results of the analysis and puts them into context.
-documents/talkshow_guests_report.md:
+documents/talkshow_guests_report.md: results/summary_counts.png results/ratio_plot.png
 	Rscript -e "ezknitr::ezknit('src/talkshow_guests_report.Rmd', out_dir = 'documents')"
 
 
@@ -52,3 +52,4 @@ clean:
 	rm -f results/ratio_plot.png
 	rm -f results/summary_counts.png
 	rm -f documents/talkshow_guests_report.md
+	rm -f documents/talkshow_guests_report.html
