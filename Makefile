@@ -11,7 +11,7 @@ all: documents/talkshow_guests_report.md
 ##########################################################
 
 #creating cleaned and merged dataset that names and party affiliation of politicians who were guests in one of the talk shows.
-Results/party_guests_clean.csv: src/import_clean_merge.R
+results/party_guests_clean.csv: src/import_clean_merge.R
 	Rscript src/import_clean_merge.R https://raw.githubusercontent.com/TheUpshot/Sunday-Shows/master/guests.csv raw_data/legislators-current.csv raw_data/legislators-historical.csv results/party_guests_clean.csv
 
 #creating summary table of guest ratios. Using the cleaned and merged dataset as input
