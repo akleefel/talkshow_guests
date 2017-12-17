@@ -3,7 +3,6 @@ title: "Talkshow Guest Analysis"
 author: "Alexander Kleefeldt"
 date: "December 9, 2017"
 output: github_document
-output: pdf_document
 ---
 
 

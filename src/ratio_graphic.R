@@ -14,7 +14,6 @@ output_file <- args[2]
 
 
 suppressMessages(library(tidyverse))
-suppressMessages(library(dplyr))
 suppressMessages(library(ggplot2))
 
 

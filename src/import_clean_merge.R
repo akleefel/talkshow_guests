@@ -26,9 +26,9 @@ output_file <- args[4]
 
 #loading required packages
 suppressPackageStartupMessages(library(tidyverse))
-suppressPackageStartupMessages(library(lubridate))
-suppressPackageStartupMessages(library(dplyr))
 suppressPackageStartupMessages(library(ezknitr))
+suppressPackageStartupMessages(library(lubridate))
+
 
 #setwd(".../talkshow_guests")
 

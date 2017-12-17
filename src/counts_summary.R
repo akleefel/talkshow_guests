@@ -1,4 +1,5 @@
 #! /usr/bin/env Rscript
+
 # counts_summary.R
 # Alexander Kleefeldt Dec, 2017
 #
@@ -18,10 +19,10 @@ output_file2 <- args[3]
 #loading libraries 
 
 suppressMessages(library(tidyverse))
-suppressMessages(library(dplyr))
-suppressMessages(library(ggplot2))
-suppressMessages(library(lubridate))
 suppressMessages(library(gridExtra))
+
+
+
 
 #loading in data
 talkshow_guests <- read_csv(input_file)

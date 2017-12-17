@@ -16,8 +16,7 @@ output_file <- args[2]
 #loading libraries 
 
 suppressMessages(library(tidyverse))
-suppressMessages(library(dplyr))
-suppressMessages(library(ggplot2))
+
 
 #loading in data
 
