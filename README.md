@@ -21,7 +21,7 @@ To reproduce the results of this project, follow these steps:
 
 3.Run the docker image
 
-`docker run -it --rm -v ABSOLUTE_PATH_TO_ROJECT_DIRECTORY:/home/talkshow_guests akleefel/talkshow_guests bin/bash`
+`docker run -it --rm -v ABSOLUTE_PATH_TO_ROJECT_DIRECTORY:/home/talkshow_guests akleefel/talkshow_guests /bin/bash`
 
 4.change directory
 
