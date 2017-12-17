@@ -98,7 +98,7 @@ main <- function(){
   
   #export table as png for report 
   png(output_file2)
-  grid.table(summary_counts, rows=rownames(summary_counts))
+  grid.table(summary_counts, rows=NULL)
   dev.off()
   
 }
