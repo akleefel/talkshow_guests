@@ -39,7 +39,7 @@ Considered conservative. Created by Australian-American media mogul Rupert Murdo
 
 Further, this image from [Business Insider](http://www.businessinsider.com/what-your-preferred-news-outlet-says-about-your-political-ideology-2014-10) summarizes how liberal or conservative major American news sources are.
 
-![]()
+![](raw_data/news_ideology.JPG)
 
 
 
