@@ -1,6 +1,10 @@
 
 # talkshow_guests
 
+## Report 
+
+Please, find a short summary of the results of the analysis in this [report](documents/talkshow_guests_report.md)
+
 
 ## Project description
 In this project I use data on politicians who have appeared on five American Sunday news and talk shows: “Meet the Press,” “Face the Nation,” “This Week,” “Fox News Sunday” and “State of the Union.” In the context of the discussions around "fake news" and biased media coverage, I asked myself another question: "Do all Sunday talk shows invite an equal amount of representatives from the different political parties?". Considering that different TV-networks in America cater to different audiences the likely answer is no. However, I decided to take a closer look and investigate which talk shows favor guests from which political parties.
