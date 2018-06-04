@@ -18,23 +18,23 @@ In a New York Times [article](https://www.nytimes.com/2014/09/06/upshot/looking-
 
 * Meet the Press [NBC](https://en.wikipedia.org/wiki/NBC)  
 
-Considered liberal. 
+Considered **liberal.** 
 
 * Face the Nation [CBS](https://en.wikipedia.org/wiki/CBS)  
 
-Considered liberal.
+Considered **liberal.**
 
 * This Week [ABC](https://en.wikipedia.org/wiki/ABC_News) 
 
-considered liberal. 
+considered **liberal.** 
 
 * State of the Union [CNN](https://en.wikipedia.org/wiki/CNN)  
 
-considered liberal.
+considered **liberal.**
 
 * Fox News Sunday [Fox News](https://en.wikipedia.org/wiki/Fox_News) 
 
-Considered conservative. Created by Australian-American media mogul Rupert Murdoch, who hired former Republican Party media consultant and CNBC executive Roger Ailes as its founding CEO.
+Considered **conservative.** Created by Australian-American media mogul Rupert Murdoch, who hired former Republican Party media consultant and CNBC executive Roger Ailes as its founding CEO.
 
 
 Further, this image from [Business Insider](http://www.businessinsider.com/what-your-preferred-news-outlet-says-about-your-political-ideology-2014-10) summarizes how liberal or conservative major American news sources are.
