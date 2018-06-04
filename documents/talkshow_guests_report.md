@@ -46,7 +46,7 @@ Further, this image from [Business Insider](http://www.businessinsider.com/what-
 
 My hypothesis is simply that different talk shows favor guests from different parties. Since the underlying dataset of the New York Times article does not contain any information on the political affiliation of talk show guests, I used data on current and previous US legislators to add their party info to the data. Since I was not able to find any information on the political orientation of other guests, my further analysis disregards all talk show guests who are not current or previous legislators of the United States. Obviously, this limits the informative value of my analysis  - but I still have around 2,200 appearances of US politicians across the five talk shows. 
 
-In the further process of the projcet, I summarized the data 
+In the further process of the projcet, I summarized the data. The comparison of the shows will be simply based on counts and ratio of politicians from the individual parties. For simplicity no hypothesis testing for the significance of the differences will be performed at this point. 
 
 
 ## Results
@@ -59,6 +59,6 @@ The below graph visualizes the fact that most talk shows have a larger proportio
 
 ![plot of chunk unnamed-chunk-2](../results/ratio_plot.png)
 
-## Interpretation 
+## Observation & Interpretation
 
-In the final report, I will add some interpretation of the results as well as the limitations of my analysis to this section. 
+Based on the above graph, we can say that **the most conservative show - Fox News Sunday - does invite the highest share of republican politicians** among the five shows. Further, we note that all shows invite a higher share of republican politicians over the share of democrats and independents. 
